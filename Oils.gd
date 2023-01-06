@@ -25,10 +25,16 @@ func load_oil(file_name : String):
 	oil.icon = load(file_name)
 	oils.append(oil)
 
+func get_oil(oil_name):
+	for oil in oils:
+		if oil.name == oil_name:
+			return oil
+
 
 func get_for_anointment(anointment):
 	var _oils = []
-	for oil in oils:
-		if anointment.has_oil(oil):
+	for oil_name in anointment.oils:
+		var oil = get_oil(oil_name)
+		if oil:
 			_oils.append(oil)
 	return _oils

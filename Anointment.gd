@@ -2,6 +2,7 @@ extends Reference
 class_name Anointment
 
 var enchant_text
+var item_class
 var oils = []
 
 func _init(csv_line):
