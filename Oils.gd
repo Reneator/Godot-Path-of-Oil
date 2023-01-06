@@ -13,7 +13,7 @@ func initialize(dir_path):
 		var file_name = dir.get_next()
 		while file_name != "":
 			if not dir.current_is_dir():
-				load_oil(file_name)
+				load_oil(dir_path + "/" + file_name)
 			file_name = dir.get_next()
 	else:
 		print("An error occurred when trying to access the path.")
@@ -23,6 +23,7 @@ func load_oil(file_name : String):
 	var oil = Oil.new()
 	oil.name = file_name.get_file().replace(".png","")
 	oil.icon = load(file_name)
+	oils.append(oil)
 
 
 func get_for_anointment(anointment):

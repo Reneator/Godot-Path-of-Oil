@@ -48,6 +48,13 @@ config/name="Path of Oil Godot"
 run/main_scene="res://Main_UI.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=240
+window/size/height=80
+window/size/resizable=false
+window/size/always_on_top=true
+
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true

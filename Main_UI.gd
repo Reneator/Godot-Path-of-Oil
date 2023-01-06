@@ -1,11 +1,14 @@
 extends Control
 
 
+export (PackedScene) var oil_element_scene
 
 var anointments
 var oils
 
 var current_data
+
+onready var oil_list = $OilList
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -39,8 +42,10 @@ func display_oils(poe_item):
 		add_element(oil)
 
 func add_element(oil):
-	pass
+	var oil_element = oil_element_scene.instance()
+	oil_element.texture = oil.icon
+	oil_list.add_child(oil_element)
 
 func clear():
-	for child in $OilList.get_children():
+	for child in oil_list.get_children():
 		child.queue_free()
