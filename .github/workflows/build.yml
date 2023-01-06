@@ -6,7 +6,7 @@ on:
       - '*'
 
 env:
-  GODOT_VERSION: 3.5
+  GODOT_VERSION: 3.5.1
   EXPORT_NAME: path_of_oil
 
 jobs:
