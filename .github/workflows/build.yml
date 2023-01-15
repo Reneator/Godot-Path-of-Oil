@@ -107,7 +107,7 @@ jobs:
           path: build/mac
 
   removeArtifacts:
-    needs: [deployToSteam]
+    needs: [export-mac, export-windows, export-linux-64, export-linux-32]
     runs-on: ubuntu-latest
     steps:
     - name: Remove artifacts
