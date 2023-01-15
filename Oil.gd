@@ -1,7 +1,4 @@
-extends Reference
+extends Node
 class_name Oil
 
-var filePath
-
-var name
-var icon : Texture
+export (Texture) var icon

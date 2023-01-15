@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Amber Oil.png-1983af7d2a893babd75a1ae572cea465.stex"
+path="res://.import/Sepia Oil.png-43b07ba8eaa4ab0881f8fd85949a3ae6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Amber Oil.png"
-dest_files=[ "res://.import/Amber Oil.png-1983af7d2a893babd75a1ae572cea465.stex" ]
+source_file="res://Assets/Images/Sepia Oil.png"
+dest_files=[ "res://.import/Sepia Oil.png-43b07ba8eaa4ab0881f8fd85949a3ae6.stex" ]
 
 [params]
 

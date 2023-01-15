@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Golden Oil.png-48349229c24da66d6fbd1ad7aeb4afdb.stex"
+path="res://.import/Crimson Oil.png-896e72566a553d0f6fc90ccb73194aba.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Golden Oil.png"
-dest_files=[ "res://.import/Golden Oil.png-48349229c24da66d6fbd1ad7aeb4afdb.stex" ]
+source_file="res://Assets/Images/Crimson Oil.png"
+dest_files=[ "res://.import/Crimson Oil.png-896e72566a553d0f6fc90ccb73194aba.stex" ]
 
 [params]
 

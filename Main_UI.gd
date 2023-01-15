@@ -4,21 +4,26 @@ extends Control
 export (PackedScene) var oil_element_scene
 
 var anointments
-var oils
 
 var current_data
 
-onready var oil_list = $OilList
+onready var oil_list = $Oil_List
+
+var delay = 0.2 #1 second delay
+var current_delay = 0.0
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	initialize()
 
 func initialize():
-	oils = Oils.new("res://data/imgs")
-	anointments = Anointments.new("res://data/Anointments.csv")
+	anointments = Anointments.new("res://Assets/Anointments_csv.txt")
 	
 func _process(delta):
+	current_delay += delta
+	if current_delay < delay:
+		return
+	current_delay = 0
 	var string : String = OS.clipboard
 	if current_data == string:
 		return
@@ -29,6 +34,7 @@ func _process(delta):
 	item.initialize(string)
 	
 	display_oils(item)
+	print("oils are being displayed now")
 
 func display_oils(poe_item):
 	clear()
@@ -36,9 +42,11 @@ func display_oils(poe_item):
 	if not anointment:
 		return
 		
-	var _oils = oils.get_for_anointment(anointment)
+	var _oils = Oils.get_for_anointment(anointment)
 	
+	print("iterating over oils: %s" % [_oils])
 	for oil in _oils:
+		print("before add element for oil: %s" % [oil.name])
 		add_element(oil)
 
 func add_element(oil):

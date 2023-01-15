@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Teal Oil.png-1a903ee10a5a66a42b679444563548bf.stex"
+path="res://.import/Indigo Oil.png-e9dcf8d4edee0b63e9cd72d238efdfa0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Teal Oil.png"
-dest_files=[ "res://.import/Teal Oil.png-1a903ee10a5a66a42b679444563548bf.stex" ]
+source_file="res://Assets/Images/Indigo Oil.png"
+dest_files=[ "res://.import/Indigo Oil.png-e9dcf8d4edee0b63e9cd72d238efdfa0.stex" ]
 
 [params]
 

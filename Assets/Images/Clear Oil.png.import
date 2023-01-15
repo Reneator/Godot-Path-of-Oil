@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Azure Oil.png-db6cef44389bdd6f0e9b1b1f16027674.stex"
+path="res://.import/Clear Oil.png-eaa5c4341e4d25fcc8eafd72666a3f88.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Azure Oil.png"
-dest_files=[ "res://.import/Azure Oil.png-db6cef44389bdd6f0e9b1b1f16027674.stex" ]
+source_file="res://Assets/Images/Clear Oil.png"
+dest_files=[ "res://.import/Clear Oil.png-eaa5c4341e4d25fcc8eafd72666a3f88.stex" ]
 
 [params]
 

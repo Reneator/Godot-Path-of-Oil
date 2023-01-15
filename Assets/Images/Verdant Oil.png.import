@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Verdant Oil.png-72583eeb5d541e27c65e6c528f696252.stex"
+path="res://.import/Verdant Oil.png-ad1580b649359f8f3ff69f332174b3ac.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Verdant Oil.png"
-dest_files=[ "res://.import/Verdant Oil.png-72583eeb5d541e27c65e6c528f696252.stex" ]
+source_file="res://Assets/Images/Verdant Oil.png"
+dest_files=[ "res://.import/Verdant Oil.png-ad1580b649359f8f3ff69f332174b3ac.stex" ]
 
 [params]
 

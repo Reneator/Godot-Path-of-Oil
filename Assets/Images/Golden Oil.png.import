@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Opalescent Oil.png-addb699b285b79632d3654d77ae09ff7.stex"
+path="res://.import/Golden Oil.png-df8e81ebe1b8ca789e6242bfbf3e0e42.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Opalescent Oil.png"
-dest_files=[ "res://.import/Opalescent Oil.png-addb699b285b79632d3654d77ae09ff7.stex" ]
+source_file="res://Assets/Images/Golden Oil.png"
+dest_files=[ "res://.import/Golden Oil.png-df8e81ebe1b8ca789e6242bfbf3e0e42.stex" ]
 
 [params]
 

@@ -19,15 +19,10 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://Anointments.gd"
 }, {
-"base": "Reference",
+"base": "Node",
 "class": "Oil",
 "language": "GDScript",
 "path": "res://Oil.gd"
-}, {
-"base": "Reference",
-"class": "Oils",
-"language": "GDScript",
-"path": "res://Oils.gd"
 }, {
 "base": "Reference",
 "class": "Poe_Item",
@@ -38,7 +33,6 @@ _global_script_class_icons={
 "Anointment": "",
 "Anointments": "",
 "Oil": "",
-"Oils": "",
 "Poe_Item": ""
 }
 
@@ -48,11 +42,14 @@ config/name="Path of Oil Godot"
 run/main_scene="res://Main_UI.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+Oils="*res://Oils.tscn"
+
 [display]
 
 window/size/width=240
 window/size/height=80
-window/size/resizable=false
 window/size/always_on_top=true
 
 [gui]

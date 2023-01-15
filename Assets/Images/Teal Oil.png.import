@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Crimson Oil.png-d583522a876e6a54851566778ff5b934.stex"
+path="res://.import/Teal Oil.png-16efb7badf6c6eef7c1398a335ac87e2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/imgs/Crimson Oil.png"
-dest_files=[ "res://.import/Crimson Oil.png-d583522a876e6a54851566778ff5b934.stex" ]
+source_file="res://Assets/Images/Teal Oil.png"
+dest_files=[ "res://.import/Teal Oil.png-16efb7badf6c6eef7c1398a335ac87e2.stex" ]
 
 [params]
 
