@@ -128,8 +128,8 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/windows/${EXPORT_NAME}.exe
-          asset_name: ${EXPORT_NAME}.exe
+          asset_path: build/windows/windows.zip
+          asset_name: windows.zip
           asset_content_type: application/zip
       - name: upload linux 32 artifact
         uses: actions/upload-release-asset@v1
@@ -137,8 +137,8 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/linux/${EXPORT_NAME}_32_bits.x86
-          asset_name: azblogfilter.linux-amd64.tar.gz
+          asset_path: build/linux/linux32.zip
+          asset_name: linux32.zip
           asset_content_type: application/gzip
       - name: upload linux 64 artifact
         uses: actions/upload-release-asset@v1
@@ -146,8 +146,8 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/linux/${EXPORT_NAME}_64_bits.x86_64
-          asset_name: ${EXPORT_NAME}_64_bits.x86_64
+          asset_path: build/linux/linux64.zip
+          asset_name: linux64.zip
           asset_content_type: application/gzip
       - name: upload mac artifact
         uses: actions/upload-release-asset@v1
@@ -155,8 +155,8 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/mac/${EXPORT_NAME}.zip
-          asset_name: ${EXPORT_NAME}.zip
+          asset_path: build/mac/mac.zip
+          asset_name: mac.zip
           asset_content_type: application/zip
           
          
