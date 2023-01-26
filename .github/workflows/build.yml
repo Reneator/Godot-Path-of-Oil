@@ -110,6 +110,8 @@ jobs:
   create-release:
     needs: [export-mac, export-windows, export-linux-64, export-linux-32]
     runs-on: ubuntu-latest
+    name: Create Release
+    steps:
       - name: release
         uses: actions/create-release@v1
         id: create_release
