@@ -206,6 +206,7 @@ Hematophagy;Silver Oil;Violet Oil;Black Oil
 Herbalism;Opalescent Oil;Silver Oil;Teal Oil
 Hex Master;Opalescent Oil;Crimson Oil;Black Oil
 High Explosives;Silver Oil;Verdant Oil;Verdant Oil
+High Voltage;Indigo Oil;Indigo Oil;Amber Oil
 Hired Killer;Opalescent Oil;Violet Oil;Violet Oil
 Holy Dominion;Azure Oil;Azure Oil;Crimson Oil
 Holy Fire;Silver Oil;Amber Oil;Teal Oil
@@ -263,6 +264,7 @@ One With Nature;Verdant Oil;Crimson Oil;Black Oil
 One with the River;Opalescent Oil;Opalescent Oil;Teal Oil
 Overcharge;Silver Oil;Crimson Oil;Black Oil
 Overcharged;Clear Oil;Opalescent Oil;Silver Oil
+Overprepared;Amber Oil;Amber Oil;Azure Oil
 Pain Forger;Clear Oil;Violet Oil;Violet Oil
 Panopticon;Opalescent Oil;Verdant Oil;Indigo Oil
 Path of the Hunter;Clear Oil;Verdant Oil;Verdant Oil
@@ -343,6 +345,7 @@ Stamina;Silver Oil;Black Oil;Black Oil
 Static Blows;Teal Oil;Violet Oil;Crimson Oil
 Steadfast;Golden Oil;Golden Oil;Sepia Oil
 Steelwood Stance;Teal Oil;Teal Oil;Azure Oil
+Steeped in the Profane;Sepia Oil;Indigo Oil;Golden Oil
 Storm Weaver;Sepia Oil;Crimson Oil;Black Oil
 Strong Arm;Clear Oil;Opalescent Oil;Azure Oil
 Successive Detonations;Clear Oil;Clear Oil;Crimson Oil
