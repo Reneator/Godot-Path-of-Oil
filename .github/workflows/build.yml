@@ -106,8 +106,60 @@ jobs:
           name: mac
           path: build/mac
 
-  removeArtifacts:
+
+  create-release:
     needs: [export-mac, export-windows, export-linux-64, export-linux-32]
+    runs-on: ubuntu-latest
+      - name: release
+        uses: actions/create-release@v1
+        id: create_release
+        with:
+          draft: false
+          prerelease: false
+          release_name: ${{ steps.version.outputs.version }}
+          tag_name: ${{ github.ref }}
+          body_path: CHANGELOG.md
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: upload windows artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: .build/windows/${EXPORT_NAME}.exe
+          asset_name: ${EXPORT_NAME}.exe
+          asset_content_type: application/zip
+      - name: upload linux 32 artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./build/linux/${EXPORT_NAME}_32_bits.x86
+          asset_name: azblogfilter.linux-amd64.tar.gz
+          asset_content_type: application/gzip
+      - name: upload linux 64 artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: .build/linux/${EXPORT_NAME}_64_bits.x86_64
+          asset_name: ${EXPORT_NAME}_64_bits.x86_64
+          asset_content_type: application/gzip
+      - name: upload mac artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: .build/mac/${EXPORT_NAME}.zip
+          asset_name: ${EXPORT_NAME}.zip
+          asset_content_type: application/zip
+          
+         
+  removeArtifacts:
     runs-on: ubuntu-latest
     steps:
     - name: Remove artifacts
@@ -116,6 +168,6 @@ jobs:
       uses: c-hive/gha-remove-artifacts@v1.2.0
       with:
         # Artifacts older than this will be deleted (e.g. "2 months", "1 day"). Parsed by moment.
-        age: "5 minutes"
+        age: "1 day"
         # Access token for the repository, available under the same name in secrets.
         GITHUB_TOKEN: ${{ github.token }}
