@@ -1,4 +1,4 @@
 extends Node
 class_name Oil
 
-export (Texture) var icon
+@export var icon : Texture2D

@@ -6,40 +6,13 @@
 ;   [section] ; section goes between []
 ;   param=value ; assign values to parameters
 
-config_version=4
-
-_global_script_classes=[ {
-"base": "Reference",
-"class": "Anointment",
-"language": "GDScript",
-"path": "res://Anointment.gd"
-}, {
-"base": "Node",
-"class": "Anointments",
-"language": "GDScript",
-"path": "res://Anointments.gd"
-}, {
-"base": "Node",
-"class": "Oil",
-"language": "GDScript",
-"path": "res://Oil.gd"
-}, {
-"base": "Reference",
-"class": "Poe_Item",
-"language": "GDScript",
-"path": "res://Poe_Item.gd"
-} ]
-_global_script_class_icons={
-"Anointment": "",
-"Anointments": "",
-"Oil": "",
-"Poe_Item": ""
-}
+config_version=5
 
 [application]
 
 config/name="Path of Oil Godot"
 run/main_scene="res://Main_UI.tscn"
+config/features=PackedStringArray("4.0")
 config/icon="res://icon.png"
 
 [autoload]
@@ -48,8 +21,8 @@ Oils="*res://Oils.tscn"
 
 [display]
 
-window/size/width=240
-window/size/height=80
+window/size/viewport_width=240
+window/size/viewport_height=80
 window/size/always_on_top=true
 
 [gui]
@@ -62,4 +35,5 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
-environment/default_environment="res://default_env.tres"
+textures/vram_compression/import_etc2_astc=true
+environment/defaults/default_environment="res://default_env.tres"

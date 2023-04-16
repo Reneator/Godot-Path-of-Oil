@@ -122,13 +122,15 @@ jobs:
           tag_name: ${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ github.token }}
+      - name: Download Artifact
+        uses:  actions/download-artifact@v3.0.1
       - name: upload windows artifact
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/windows/windows.zip
+          asset_path: windows.zip
           asset_name: windows.zip
           asset_content_type: application/zip
       - name: upload linux 32 artifact
@@ -137,7 +139,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/linux/linux32.zip
+          asset_path: linux32.zip
           asset_name: linux32.zip
           asset_content_type: application/gzip
       - name: upload linux 64 artifact
@@ -146,7 +148,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/linux/linux64.zip
+          asset_path: linux64.zip
           asset_name: linux64.zip
           asset_content_type: application/gzip
       - name: upload mac artifact
@@ -155,7 +157,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/mac/mac.zip
+          asset_path: mac.zip
           asset_name: mac.zip
           asset_content_type: application/zip
           

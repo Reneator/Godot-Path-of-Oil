@@ -1,72 +1,72 @@
-[gd_scene load_steps=16 format=2]
+[gd_scene load_steps=16 format=3 uid="uid://j7i4efpb3qk4"]
 
-[ext_resource path="res://Oil.gd" type="Script" id=1]
-[ext_resource path="res://Assets/Images/Amber Oil.png" type="Texture" id=2]
-[ext_resource path="res://Assets/Images/Azure Oil.png" type="Texture" id=3]
-[ext_resource path="res://Assets/Images/Clear Oil.png" type="Texture" id=4]
-[ext_resource path="res://Assets/Images/Golden Oil.png" type="Texture" id=5]
-[ext_resource path="res://Assets/Images/Crimson Oil.png" type="Texture" id=6]
-[ext_resource path="res://Assets/Images/Indigo Oil.png" type="Texture" id=7]
-[ext_resource path="res://Assets/Images/Black Oil.png" type="Texture" id=8]
-[ext_resource path="res://Assets/Images/Verdant Oil.png" type="Texture" id=9]
-[ext_resource path="res://Assets/Images/Violet Oil.png" type="Texture" id=10]
-[ext_resource path="res://Assets/Images/Teal Oil.png" type="Texture" id=11]
-[ext_resource path="res://Assets/Images/Opalescent Oil.png" type="Texture" id=12]
-[ext_resource path="res://Assets/Images/Sepia Oil.png" type="Texture" id=13]
-[ext_resource path="res://Assets/Images/Silver Oil.png" type="Texture" id=14]
-[ext_resource path="res://Oils.gd" type="Script" id=15]
+[ext_resource type="Script" path="res://Oil.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://dxosmwuk01ss5" path="res://Assets/Images/Amber Oil.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://bwemm4kdpbuhy" path="res://Assets/Images/Azure Oil.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://muicvaum3tt8" path="res://Assets/Images/Clear Oil.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://dasunvi3g7i67" path="res://Assets/Images/Golden Oil.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://dvve3750py5kj" path="res://Assets/Images/Crimson Oil.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://b2ces6sl78cc2" path="res://Assets/Images/Indigo Oil.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://b670a7tubsrkv" path="res://Assets/Images/Black Oil.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://c12v2s8acx1a5" path="res://Assets/Images/Verdant Oil.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://cepgu1o6l5lyj" path="res://Assets/Images/Violet Oil.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://d1kjpthdhov4b" path="res://Assets/Images/Teal Oil.png" id="11"]
+[ext_resource type="Texture2D" uid="uid://cxgvrbydxxsov" path="res://Assets/Images/Opalescent Oil.png" id="12"]
+[ext_resource type="Texture2D" uid="uid://dbmlph2illvhe" path="res://Assets/Images/Sepia Oil.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://butvmoyxy3p7q" path="res://Assets/Images/Silver Oil.png" id="14"]
+[ext_resource type="Script" path="res://Oils.gd" id="15"]
 
 [node name="Oils" type="Node"]
-script = ExtResource( 15 )
+script = ExtResource("15")
 
 [node name="Amber Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 2 )
+script = ExtResource("1")
+icon = ExtResource("2")
 
 [node name="Azure Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 3 )
+script = ExtResource("1")
+icon = ExtResource("3")
 
 [node name="Black Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 8 )
+script = ExtResource("1")
+icon = ExtResource("8")
 
 [node name="Clear Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 4 )
+script = ExtResource("1")
+icon = ExtResource("4")
 
 [node name="Crimson Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 6 )
+script = ExtResource("1")
+icon = ExtResource("6")
 
 [node name="Golden Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 5 )
+script = ExtResource("1")
+icon = ExtResource("5")
 
 [node name="Indigo Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 7 )
+script = ExtResource("1")
+icon = ExtResource("7")
 
 [node name="Opalescent Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 12 )
+script = ExtResource("1")
+icon = ExtResource("12")
 
 [node name="Sepia Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 13 )
+script = ExtResource("1")
+icon = ExtResource("13")
 
 [node name="Silver Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 14 )
+script = ExtResource("1")
+icon = ExtResource("14")
 
 [node name="Teal Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 11 )
+script = ExtResource("1")
+icon = ExtResource("11")
 
 [node name="Verdant Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 9 )
+script = ExtResource("1")
+icon = ExtResource("9")
 
 [node name="Violet Oil" type="Node" parent="."]
-script = ExtResource( 1 )
-icon = ExtResource( 10 )
+script = ExtResource("1")
+icon = ExtResource("10")

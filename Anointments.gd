@@ -9,8 +9,7 @@ func _init(file_path : String):
 	initialize(file_path)
 
 func initialize(file_path : String):
-	var file = File.new()
-	file.open(file_path, File.READ)
+	var file = FileAccess.open(file_path, FileAccess.READ)
 	var item_class
 	while not file.eof_reached():
 		var csv_line = file.get_csv_line(";")

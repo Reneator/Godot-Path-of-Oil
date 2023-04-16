@@ -62,6 +62,7 @@ Breath of Flames;Golden Oil;Verdant Oil;Azure Oil
 Breath of Lightning;Golden Oil;Azure Oil;Violet Oil
 Breath of Rime;Silver Oil;Silver Oil;Teal Oil
 Brinkmanship;Clear Oil;Opalescent Oil;Amber Oil
+Brink of Death;Verdant Oil;Indigo Oil;Violet Oil
 Brutal Blade;Golden Oil;Sepia Oil;Verdant Oil
 Burning Brutality;Teal Oil;Indigo Oil;Violet Oil
 Butchery;Verdant Oil;Violet Oil;Crimson Oil
@@ -142,6 +143,7 @@ Essence Sap;Teal Oil;Violet Oil;Black Oil
 Essence Surge;Silver Oil;Golden Oil;Teal Oil
 Ethereal Feast;Silver Oil;Golden Oil;Amber Oil
 Exceptional Performance;Clear Oil;Amber Oil;Black Oil
+Excess Sustenance;Teal Oil;Violet Oil;Violet Oil
 Executioner;Amber Oil;Verdant Oil;Azure Oil
 Expeditious Munitions;Clear Oil;Azure Oil;Violet Oil
 Expertise;Sepia Oil;Sepia Oil;Sepia Oil
@@ -242,7 +244,7 @@ Mana Flows;Clear Oil;Opalescent Oil;Golden Oil
 Mark the Prey;Sepia Oil;Indigo Oil;Crimson Oil
 Marked for Death;Silver Oil;Sepia Oil;Indigo Oil
 Martial Experience;Clear Oil;Verdant Oil;Azure Oil
-Master Fletcher;Sepia Oil;Verdant Oil;Crimson Oil
+Master Fletcher;Sepia Oil;Crimson Oil;Silver Oil
 Master of Blades;Opalescent Oil;Golden Oil;Azure Oil
 Master of the Arena;Opalescent Oil;Silver Oil;Sepia Oil
 Master Sapper;Opalescent Oil;Teal Oil;Black Oil
@@ -252,6 +254,7 @@ Mental Rapidity;Sepia Oil;Violet Oil;Black Oil
 Merciless Skewering;Silver Oil;Violet Oil;Violet Oil
 Might;Clear Oil;Amber Oil;Amber Oil
 Mind Drinker;Verdant Oil;Teal Oil;Teal Oil
+Multishot;Violet Oil;Black Oil;Silver Oil
 Mystic Bulwark;Teal Oil;Teal Oil;Teal Oil
 Mystic Talents;Opalescent Oil;Silver Oil;Amber Oil
 Mysticism;Opalescent Oil;Teal Oil;Azure Oil

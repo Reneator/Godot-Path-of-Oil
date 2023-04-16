@@ -1,13 +1,13 @@
 extends Control
 
 
-export (PackedScene) var oil_element_scene
+@export var oil_element_scene : PackedScene
 
 var anointments
 
 var current_data
 
-onready var oil_list = $Oil_List
+@onready var oil_list = $Oil_List
 
 var delay = 0.2 #1 second delay
 var current_delay = 0.0
@@ -24,7 +24,7 @@ func _process(delta):
 	if current_delay < delay:
 		return
 	current_delay = 0
-	var string : String = OS.clipboard
+	var string  = DisplayServer.clipboard_get()
 	if current_data == string:
 		return
 	if not string.begins_with("Item Class:") and not string.length() > 50:
@@ -50,7 +50,7 @@ func display_oils(poe_item):
 		add_element(oil)
 
 func add_element(oil):
-	var oil_element = oil_element_scene.instance()
+	var oil_element = oil_element_scene.instantiate()
 	oil_element.texture = oil.icon
 	oil_list.add_child(oil_element)
 

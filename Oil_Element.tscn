@@ -1,9 +1,10 @@
-[gd_scene format=2]
+[gd_scene format=3 uid="uid://cnmcr1122vbsp"]
 
 [node name="Control" type="TextureRect"]
+custom_minimum_size = Vector2(78, 78)
+anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_right = -984.0
-margin_bottom = -560.0
-rect_min_size = Vector2( 78, 78 )
-expand = true
+offset_right = -984.0
+offset_bottom = -560.0
+expand_mode = 1
