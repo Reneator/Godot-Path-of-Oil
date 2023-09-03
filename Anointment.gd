@@ -15,7 +15,7 @@ func _init(csv_line):
 		
 		oils.append(string)
 
-func has_oil(_oil):
+func has_oil(_oil : Oil):
 	for oil in oils:
-		if oil == _oil.name:
+		if _oil.equals(oil):
 			return true

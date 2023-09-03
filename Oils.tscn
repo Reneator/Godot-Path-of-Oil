@@ -19,54 +19,54 @@
 [node name="Oils" type="Node"]
 script = ExtResource("15")
 
-[node name="Amber Oil" type="Node" parent="."]
+[node name="Amber" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("2")
 
-[node name="Azure Oil" type="Node" parent="."]
+[node name="Azure" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("3")
 
-[node name="Black Oil" type="Node" parent="."]
+[node name="Black" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("8")
 
-[node name="Clear Oil" type="Node" parent="."]
+[node name="Clear" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("4")
 
-[node name="Crimson Oil" type="Node" parent="."]
+[node name="Crimson" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("6")
 
-[node name="Golden Oil" type="Node" parent="."]
+[node name="Golden" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("5")
 
-[node name="Indigo Oil" type="Node" parent="."]
+[node name="Indigo" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("7")
 
-[node name="Opalescent Oil" type="Node" parent="."]
+[node name="Opalescent" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("12")
 
-[node name="Sepia Oil" type="Node" parent="."]
+[node name="Sepia" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("13")
 
-[node name="Silver Oil" type="Node" parent="."]
+[node name="Silver" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("14")
 
-[node name="Teal Oil" type="Node" parent="."]
+[node name="Teal" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("11")
 
-[node name="Verdant Oil" type="Node" parent="."]
+[node name="Verdant" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("9")
 
-[node name="Violet Oil" type="Node" parent="."]
+[node name="Violet" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("10")

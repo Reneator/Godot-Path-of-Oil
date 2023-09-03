@@ -36,7 +36,7 @@ func _ready():
 
 func get_oil(oil_name):
 	for oil in oils:
-		if oil.name == oil_name:
+		if oil.equals(oil_name):
 			return oil
 
 

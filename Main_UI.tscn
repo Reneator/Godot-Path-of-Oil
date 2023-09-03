@@ -1,13 +1,15 @@
 [gd_scene load_steps=3 format=3 uid="uid://bl8iw3a4o8pq5"]
 
 [ext_resource type="Script" path="res://Main_UI.gd" id="1"]
-[ext_resource type="PackedScene" path="res://Oil_Element.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://cnmcr1122vbsp" path="res://Oil_Element.tscn" id="2"]
 
 [node name="Main_UI" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
 script = ExtResource("1")
 oil_element_scene = ExtResource("2")
 
