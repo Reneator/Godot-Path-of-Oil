@@ -2,411 +2,417 @@
 Acrimony;Clear Oil;Black Oil;Black Oil
 Acuity;Clear Oil;Violet Oil;Black Oil
 Adamant;Azure Oil;Violet Oil;Black Oil
-Adder's Touch;Opalescent Oil;Sepia Oil;Black Oil
-Adjacent Animosity;Opalescent Oil;Indigo Oil;Crimson Oil
-Admonisher;Opalescent Oil;Sepia Oil;Azure Oil
+Adder's Touch;Sepia Oil;Black Oil;Opalescent Oil
+Adjacent Animosity;Indigo Oil;Crimson Oil;Opalescent Oil
+Admonisher;Sepia Oil;Azure Oil;Opalescent Oil
 Aggressive Bastion;Verdant Oil;Violet Oil;Black Oil
 Agility;Clear Oil;Sepia Oil;Sepia Oil
 Alacrity;Clear Oil;Clear Oil;Clear Oil
 Ambidexterity;Amber Oil;Azure Oil;Black Oil
-Amplify;Opalescent Oil;Amber Oil;Azure Oil
+Amplify;Amber Oil;Azure Oil;Opalescent Oil
 Ancestral Knowledge;Clear Oil;Sepia Oil;Verdant Oil
 Annihilation;Clear Oil;Clear Oil;Black Oil
-Anointed Flesh;Golden Oil;Golden Oil;Indigo Oil
-Arcane Capacitor;Golden Oil;Violet Oil;Black Oil
-Arcane Chemistry;Silver Oil;Silver Oil;Amber Oil
-Arcane Expanse;Golden Oil;Crimson Oil;Crimson Oil
+Anointed Flesh;Indigo Oil;Golden Oil;Golden Oil
+Arcane Capacitor;Violet Oil;Black Oil;Golden Oil
+Arcane Chemistry;Amber Oil;Silver Oil;Silver Oil
+Arcane Expanse;Crimson Oil;Crimson Oil;Golden Oil
 Arcane Focus;Verdant Oil;Crimson Oil;Crimson Oil
 Arcane Guarding;Clear Oil;Teal Oil;Black Oil
-Arcane Potency;Silver Oil;Azure Oil;Black Oil
+Arcane Potency;Azure Oil;Black Oil;Silver Oil
 Arcane Sanctuary;Clear Oil;Silver Oil;Silver Oil
-Arcane Will;Silver Oil;Amber Oil;Amber Oil
+Arcane Will;Amber Oil;Amber Oil;Silver Oil
 Arcanist's Dominion;Clear Oil;Crimson Oil;Black Oil
 Arcing Blows;Clear Oil;Clear Oil;Silver Oil
 Arsonist;Verdant Oil;Verdant Oil;Azure Oil
-Art of the Gladiator;Opalescent Oil;Golden Oil;Sepia Oil
+Art of the Gladiator;Sepia Oil;Opalescent Oil;Golden Oil
 Ash, Frost and Storm;Sepia Oil;Crimson Oil;Crimson Oil
-Aspect of Stone;Golden Oil;Golden Oil;Violet Oil
 Aspect of the Eagle;Amber Oil;Verdant Oil;Verdant Oil
 Aspect of the Lynx;Violet Oil;Violet Oil;Crimson Oil
-Assassination;Opalescent Oil;Golden Oil;Black Oil
+Assassination;Black Oil;Opalescent Oil;Golden Oil
 Assured Strike;Clear Oil;Indigo Oil;Black Oil
-Asylum;Silver Oil;Indigo Oil;Violet Oil
-Atrophy;Clear Oil;Golden Oil;Sepia Oil
+Asylum;Indigo Oil;Violet Oil;Silver Oil
+Atrophy;Clear Oil;Sepia Oil;Golden Oil
 Avatar of the Hunt;Clear Oil;Opalescent Oil;Opalescent Oil
-Backstabbing;Clear Oil;Silver Oil;Teal Oil
-Ballistics;Opalescent Oil;Azure Oil;Violet Oil
+Backstabbing;Clear Oil;Teal Oil;Silver Oil
+Ballistics;Azure Oil;Violet Oil;Opalescent Oil
 Bannerman;Indigo Oil;Violet Oil;Crimson Oil
 Barbarism;Opalescent Oil;Opalescent Oil;Golden Oil
 Bastion Breaker;Sepia Oil;Teal Oil;Indigo Oil
 Battle Rouse;Sepia Oil;Verdant Oil;Azure Oil
 Beef;Clear Oil;Clear Oil;Sepia Oil
-Berserking;Clear Oil;Opalescent Oil;Sepia Oil
-Blacksmith's Clout;Opalescent Oil;Verdant Oil;Black Oil
-Blade Barrier;Clear Oil;Opalescent Oil;Violet Oil
-Blade Master;Clear Oil;Silver Oil;Sepia Oil
-Blade of Cunning;Silver Oil;Sepia Oil;Azure Oil
+Berserking;Clear Oil;Sepia Oil;Opalescent Oil
+Blacksmith's Clout;Verdant Oil;Black Oil;Opalescent Oil
+Blade Barrier;Clear Oil;Violet Oil;Opalescent Oil
+Blade Master;Clear Oil;Sepia Oil;Silver Oil
+Blade of Cunning;Sepia Oil;Azure Oil;Silver Oil
 Bladedancer;Amber Oil;Amber Oil;Crimson Oil
-Blast Radius;Clear Oil;Opalescent Oil;Verdant Oil
+Blast Radius;Clear Oil;Verdant Oil;Opalescent Oil
 Blast Waves;Clear Oil;Verdant Oil;Crimson Oil
 Blood Drinker;Opalescent Oil;Opalescent Oil;Silver Oil
-Blood Siphon;Opalescent Oil;Silver Oil;Azure Oil
-Bloodless;Golden Oil;Amber Oil;Crimson Oil
-Bloodletting;Silver Oil;Azure Oil;Azure Oil
-Blunt Trauma;Silver Oil;Teal Oil;Crimson Oil
+Blood Siphon;Azure Oil;Opalescent Oil;Silver Oil
+Bloodless;Amber Oil;Crimson Oil;Golden Oil
+Bloodletting;Azure Oil;Azure Oil;Silver Oil
+Blunt Trauma;Teal Oil;Crimson Oil;Silver Oil
 Bone Breaker;Verdant Oil;Azure Oil;Azure Oil
-Born to Fight;Golden Oil;Violet Oil;Violet Oil
+Born to Fight;Violet Oil;Violet Oil;Golden Oil
 Brand Equity;Indigo Oil;Violet Oil;Black Oil
-Bravery;Opalescent Oil;Opalescent Oil;Violet Oil
-Breath of Flames;Golden Oil;Verdant Oil;Azure Oil
-Breath of Lightning;Golden Oil;Azure Oil;Violet Oil
-Breath of Rime;Silver Oil;Silver Oil;Teal Oil
-Brinkmanship;Clear Oil;Opalescent Oil;Amber Oil
+Bravery;Violet Oil;Opalescent Oil;Opalescent Oil
+Breath of Flames;Verdant Oil;Azure Oil;Golden Oil
+Breath of Lightning;Azure Oil;Violet Oil;Golden Oil
+Breath of Rime;Teal Oil;Silver Oil;Silver Oil
 Brink of Death;Verdant Oil;Indigo Oil;Violet Oil
-Brutal Blade;Golden Oil;Sepia Oil;Verdant Oil
+Brinkmanship;Clear Oil;Amber Oil;Opalescent Oil
+Brutal Blade;Sepia Oil;Verdant Oil;Golden Oil
 Burning Brutality;Teal Oil;Indigo Oil;Violet Oil
 Butchery;Verdant Oil;Violet Oil;Crimson Oil
 Cannibalistic Rite;Teal Oil;Azure Oil;Azure Oil
-Careful Conservationist;Opalescent Oil;Indigo Oil;Black Oil
-Carrion;Sepia Oil;Black Oil;Black Oil
-Champion of the Cause;Golden Oil;Teal Oil;Crimson Oil
+Careful Conservationist;Indigo Oil;Black Oil;Opalescent Oil
+Cauterisation;Sepia Oil;Sepia Oil;Indigo Oil
+Champion of the Cause;Teal Oil;Crimson Oil;Golden Oil
 Charisma;Opalescent Oil;Golden Oil;Golden Oil
-Claws of the Falcon;Golden Oil;Amber Oil;Amber Oil
-Claws of the Hawk;Opalescent Oil;Violet Oil;Black Oil
+Circle of Life;Clear Oil;Indigo Oil;Violet Oil
+Claws of the Falcon;Amber Oil;Amber Oil;Golden Oil
+Claws of the Hawk;Violet Oil;Black Oil;Opalescent Oil
 Claws of the Magpie;Sepia Oil;Azure Oil;Azure Oil
-Cleansed Thoughts;Clear Oil;Golden Oil;Azure Oil
 Cleaving;Sepia Oil;Amber Oil;Black Oil
 Clever Construction;Sepia Oil;Azure Oil;Crimson Oil
 Clever Thief;Clear Oil;Verdant Oil;Indigo Oil
 Cloth and Chain;Clear Oil;Clear Oil;Azure Oil
 Coldhearted Calculation;Crimson Oil;Crimson Oil;Crimson Oil
 Combat Stamina;Clear Oil;Verdant Oil;Black Oil
-Command of Steel;Opalescent Oil;Amber Oil;Crimson Oil
-Constitution;Golden Oil;Teal Oil;Violet Oil
+Command of Steel;Amber Oil;Crimson Oil;Opalescent Oil
+Concussive Force;Teal Oil;Indigo Oil;Silver Oil
+Conjured Barrier;Verdant Oil;Indigo Oil;Black Oil
+Constitution;Teal Oil;Violet Oil;Golden Oil
 Coordination;Amber Oil;Crimson Oil;Black Oil
 Corruption;Crimson Oil;Black Oil;Black Oil
-Counterweight;Clear Oil;Silver Oil;Amber Oil
+Counterweight;Clear Oil;Amber Oil;Silver Oil
 Courage;Azure Oil;Violet Oil;Violet Oil
-Crackling Speed;Opalescent Oil;Opalescent Oil;Black Oil
-Cruel Preparation;Silver Oil;Teal Oil;Black Oil
-Crusader;Golden Oil;Golden Oil;Black Oil
-Crystal Skin;Silver Oil;Sepia Oil;Black Oil
-Dark Arts;Opalescent Oil;Teal Oil;Violet Oil
-Dazzling Strikes;Opalescent Oil;Teal Oil;Teal Oil
-Deadly Draw;Silver Oil;Sepia Oil;Crimson Oil
-Deadly Inclinations;Golden Oil;Verdant Oil;Black Oil
-Death Attunement;Clear Oil;Silver Oil;Crimson Oil
+Crackling Speed;Black Oil;Opalescent Oil;Opalescent Oil
+Cruel Preparation;Teal Oil;Black Oil;Silver Oil
+Crystal Skin;Sepia Oil;Black Oil;Silver Oil
+Dance of Blades;Indigo Oil;Crimson Oil;Crimson Oil
+Dark Arts;Teal Oil;Violet Oil;Opalescent Oil
+Dazzling Strikes;Teal Oil;Teal Oil;Opalescent Oil
+Deadly Draw;Sepia Oil;Verdant Oil;Crimson Oil
+Death Attunement;Clear Oil;Crimson Oil;Silver Oil
 Decay Ward;Sepia Oil;Verdant Oil;Teal Oil
-Deep Breaths;Opalescent Oil;Teal Oil;Indigo Oil
+Deep Breaths;Teal Oil;Indigo Oil;Opalescent Oil
 Deep Thoughts;Clear Oil;Verdant Oil;Violet Oil
 Deep Wisdom;Sepia Oil;Teal Oil;Teal Oil
 Defiance;Amber Oil;Teal Oil;Black Oil
-Deflection;Silver Oil;Amber Oil;Indigo Oil
+Defiled Forces;Crimson Oil;Black Oil;Opalescent Oil
+Deflection;Amber Oil;Indigo Oil;Silver Oil
 Depth Perception;Amber Oil;Verdant Oil;Teal Oil
 Dervish;Azure Oil;Crimson Oil;Black Oil
-Destroyer;Opalescent Oil;Sepia Oil;Verdant Oil
-Destructive Apparatus;Silver Oil;Sepia Oil;Amber Oil
-Devastating Devices;Silver Oil;Teal Oil;Teal Oil
-Devotion;Silver Oil;Crimson Oil;Crimson Oil
-Diamond Skin;Opalescent Oil;Sepia Oil;Teal Oil
-Dire Torment;Opalescent Oil;Azure Oil;Crimson Oil
-Dirty Techniques;Opalescent Oil;Golden Oil;Amber Oil
+Destroyer;Sepia Oil;Verdant Oil;Opalescent Oil
+Destructive Apparatus;Sepia Oil;Amber Oil;Silver Oil
+Devastating Devices;Teal Oil;Teal Oil;Silver Oil
+Devotion;Crimson Oil;Crimson Oil;Silver Oil
+Diamond Skin;Sepia Oil;Teal Oil;Opalescent Oil
+Dire Torment;Azure Oil;Crimson Oil;Opalescent Oil
+Dirty Techniques;Amber Oil;Opalescent Oil;Golden Oil
 Disciple of the Forbidden;Black Oil;Black Oil;Black Oil
-Disciple of the Slaughter;Golden Oil;Amber Oil;Verdant Oil
-Disciple of the Unyielding;Opalescent Oil;Violet Oil;Crimson Oil
-Discipline and Training;Silver Oil;Silver Oil;Black Oil
+Disciple of the Slaughter;Amber Oil;Verdant Oil;Golden Oil
+Disciple of the Unyielding;Violet Oil;Crimson Oil;Opalescent Oil
+Discipline and Training;Black Oil;Silver Oil;Silver Oil
 Discord Artisan;Amber Oil;Teal Oil;Azure Oil
-Disemboweling;Golden Oil;Verdant Oil;Violet Oil
+Disemboweling;Verdant Oil;Violet Oil;Golden Oil
 Disintegration;Violet Oil;Black Oil;Black Oil
-Dismembering;Opalescent Oil;Golden Oil;Violet Oil
+Dismembering;Violet Oil;Opalescent Oil;Golden Oil
 Divine Fervour;Verdant Oil;Teal Oil;Indigo Oil
 Divine Fury;Amber Oil;Amber Oil;Black Oil
 Divine Judgement;Sepia Oil;Teal Oil;Black Oil
-Divine Wrath;Opalescent Oil;Amber Oil;Amber Oil
-Doom Cast;Golden Oil;Amber Oil;Azure Oil
+Divine Wrath;Amber Oil;Amber Oil;Opalescent Oil
+Doom Cast;Amber Oil;Azure Oil;Golden Oil
 Dreamer;Sepia Oil;Teal Oil;Azure Oil
-Druidic Rite;Clear Oil;Golden Oil;Crimson Oil
+Druidic Rite;Clear Oil;Crimson Oil;Golden Oil
 Dynamo;Clear Oil;Sepia Oil;Azure Oil
 Eagle Eye;Clear Oil;Clear Oil;Opalescent Oil
 Efficient Explosives;Sepia Oil;Teal Oil;Violet Oil
 Elder Power;Teal Oil;Teal Oil;Violet Oil
 Elemental Focus;Sepia Oil;Amber Oil;Azure Oil
-Endurance;Clear Oil;Golden Oil;Black Oil
-Enduring Bond;Clear Oil;Golden Oil;Verdant Oil
+Empowered Bond;Clear Oil;Indigo Oil;Indigo Oil
+Endurance;Clear Oil;Black Oil;Golden Oil
+Enduring Bond;Clear Oil;Verdant Oil;Golden Oil
 Enigmatic Defence;Violet Oil;Violet Oil;Violet Oil
 Enigmatic Reach;Verdant Oil;Teal Oil;Black Oil
 Entrench;Sepia Oil;Azure Oil;Violet Oil
 Entropy;Sepia Oil;Amber Oil;Crimson Oil
+Escalation;Verdant Oil;Verdant Oil;Indigo Oil
 Essence Extraction;Crimson Oil;Crimson Oil;Black Oil
 Essence Infusion;Clear Oil;Amber Oil;Verdant Oil
 Essence Sap;Teal Oil;Violet Oil;Black Oil
-Essence Surge;Silver Oil;Golden Oil;Teal Oil
-Ethereal Feast;Silver Oil;Golden Oil;Amber Oil
+Essence Surge;Teal Oil;Silver Oil;Golden Oil
+Ethereal Feast;Amber Oil;Silver Oil;Golden Oil
 Exceptional Performance;Clear Oil;Amber Oil;Black Oil
-Excess Sustenance;Teal Oil;Violet Oil;Violet Oil
+Excess Sustenance;Teal Oil;Indigo Oil;Indigo Oil
 Executioner;Amber Oil;Verdant Oil;Azure Oil
 Expeditious Munitions;Clear Oil;Azure Oil;Violet Oil
+Expert Hunter;Indigo Oil;Black Oil;Black Oil
 Expertise;Sepia Oil;Sepia Oil;Sepia Oil
-Explosive Elements;Silver Oil;Amber Oil;Crimson Oil
-Explosive Impact;Opalescent Oil;Verdant Oil;Azure Oil
+Explosive Elements;Amber Oil;Crimson Oil;Silver Oil
+Explosive Impact;Verdant Oil;Azure Oil;Opalescent Oil
 Explosive Runes;Amber Oil;Azure Oil;Azure Oil
-Faith and Steel;Golden Oil;Sepia Oil;Black Oil
-Fangs of Frost;Silver Oil;Sepia Oil;Sepia Oil
+Faith and Steel;Sepia Oil;Black Oil;Golden Oil
+Fangs of Frost;Sepia Oil;Sepia Oil;Silver Oil
 Fangs of the Viper;Clear Oil;Teal Oil;Azure Oil
 Farsight;Verdant Oil;Verdant Oil;Crimson Oil
-Fatal Blade;Opalescent Oil;Opalescent Oil;Amber Oil
-Fatal Toxins;Clear Oil;Silver Oil;Violet Oil
+Fatal Blade;Amber Oil;Opalescent Oil;Opalescent Oil
+Fatal Toxins;Clear Oil;Violet Oil;Silver Oil
 Fearsome Force;Teal Oil;Azure Oil;Crimson Oil
-Feller of Foes;Opalescent Oil;Amber Oil;Black Oil
+Feller of Foes;Amber Oil;Black Oil;Opalescent Oil
 Fending;Sepia Oil;Sepia Oil;Verdant Oil
-Fervour;Silver Oil;Amber Oil;Black Oil
+Fervour;Amber Oil;Black Oil;Silver Oil
 Field Medicine;Indigo Oil;Crimson Oil;Black Oil
 Finesse;Teal Oil;Azure Oil;Black Oil
-Fingers of Frost;Golden Oil;Violet Oil;Crimson Oil
+Fingers of Frost;Violet Oil;Crimson Oil;Golden Oil
 Fire Walker;Violet Oil;Crimson Oil;Black Oil
 Flash Freeze;Verdant Oil;Azure Oil;Crimson Oil
 Flaying;Clear Oil;Violet Oil;Crimson Oil
-Fleetfoot;Opalescent Oil;Sepia Oil;Amber Oil
-Force Shaper;Clear Oil;Silver Oil;Indigo Oil
+Fleetfoot;Sepia Oil;Amber Oil;Opalescent Oil
+Force Shaper;Clear Oil;Indigo Oil;Silver Oil
 Forceful Skewering;Verdant Oil;Azure Oil;Violet Oil
-Forces of Nature;Silver Oil;Verdant Oil;Azure Oil
-Foresight;Opalescent Oil;Golden Oil;Verdant Oil
+Forces of Nature;Verdant Oil;Azure Oil;Silver Oil
+Foresight;Verdant Oil;Opalescent Oil;Golden Oil
 Forethought;Teal Oil;Indigo Oil;Black Oil
 Freedom of Movement;Clear Oil;Sepia Oil;Violet Oil
-Frenetic;Silver Oil;Silver Oil;Azure Oil
+Frenetic;Azure Oil;Silver Oil;Silver Oil
 From the Shadows;Clear Oil;Azure Oil;Crimson Oil
-Frost Walker;Opalescent Oil;Verdant Oil;Violet Oil
+Frost Walker;Verdant Oil;Violet Oil;Opalescent Oil
 Fury Bolts;Verdant Oil;Verdant Oil;Teal Oil
 Fusillade;Sepia Oil;Verdant Oil;Verdant Oil
 Galvanic Hammer;Clear Oil;Sepia Oil;Crimson Oil
-Gladiator's Perseverance;Silver Oil;Teal Oil;Azure Oil
-Golem Commander;Silver Oil;Golden Oil;Azure Oil
-Golem's Blood;Golden Oil;Golden Oil;Teal Oil
-Goliath;Golden Oil;Sepia Oil;Amber Oil
+Glacial Cage;Verdant Oil;Indigo Oil;Crimson Oil
+Gladiator's Perseverance;Teal Oil;Azure Oil;Silver Oil
+Golem Commander;Azure Oil;Silver Oil;Golden Oil
+Golem's Blood;Teal Oil;Golden Oil;Golden Oil
+Goliath;Sepia Oil;Amber Oil;Golden Oil
 Graceful Assault;Violet Oil;Violet Oil;Black Oil
 Grave Intentions;Sepia Oil;Violet Oil;Violet Oil
 Gravepact;Azure Oil;Black Oil;Black Oil
-Growth and Decay;Clear Oil;Golden Oil;Teal Oil
+Growth and Decay;Clear Oil;Teal Oil;Golden Oil
 Hard Knocks;Sepia Oil;Amber Oil;Amber Oil
-Hardened Scars;Clear Oil;Teal Oil;Violet Oil
 Harpooner;Teal Oil;Indigo Oil;Crimson Oil
 Harrier;Azure Oil;Crimson Oil;Crimson Oil
 Harvester of Foes;Clear Oil;Amber Oil;Indigo Oil
-Hasty Reconstruction;Amber Oil;Amber Oil;Azure Oil
 Hatchet Master;Verdant Oil;Teal Oil;Crimson Oil
-Heart and Soul;Golden Oil;Sepia Oil;Crimson Oil
-Heart of Darkness;Opalescent Oil;Azure Oil;Azure Oil
-Heart of Flame;Golden Oil;Teal Oil;Azure Oil
-Heart of Ice;Opalescent Oil;Golden Oil;Crimson Oil
-Heart of Oak;Golden Oil;Verdant Oil;Crimson Oil
-Heart of the Warrior;Silver Oil;Golden Oil;Violet Oil
-Heart of Thunder;Golden Oil;Sepia Oil;Azure Oil
+Heart and Soul;Sepia Oil;Crimson Oil;Golden Oil
+Heart of Darkness;Azure Oil;Azure Oil;Opalescent Oil
+Heart of Flame;Teal Oil;Azure Oil;Golden Oil
+Heart of Ice;Crimson Oil;Opalescent Oil;Golden Oil
+Heart of Oak;Verdant Oil;Crimson Oil;Golden Oil
+Heart of Thunder;Sepia Oil;Azure Oil;Golden Oil
+Heart of the Warrior;Violet Oil;Silver Oil;Golden Oil
 Heartseeker;Teal Oil;Crimson Oil;Crimson Oil
-Hearty;Opalescent Oil;Silver Oil;Verdant Oil
+Hearty;Verdant Oil;Opalescent Oil;Silver Oil
 Heavy Draw;Sepia Oil;Verdant Oil;Violet Oil
-Hematophagy;Silver Oil;Violet Oil;Black Oil
-Herbalism;Opalescent Oil;Silver Oil;Teal Oil
-Hex Master;Opalescent Oil;Crimson Oil;Black Oil
-High Explosives;Silver Oil;Verdant Oil;Verdant Oil
-High Voltage;Indigo Oil;Indigo Oil;Amber Oil
-Hired Killer;Opalescent Oil;Violet Oil;Violet Oil
+Hematophagy;Violet Oil;Black Oil;Silver Oil
+Herbalism;Teal Oil;Opalescent Oil;Silver Oil
+High Explosives;Verdant Oil;Verdant Oil;Silver Oil
+High Voltage;Amber Oil;Indigo Oil;Indigo Oil
+Hired Killer;Violet Oil;Violet Oil;Opalescent Oil
 Holy Dominion;Azure Oil;Azure Oil;Crimson Oil
-Holy Fire;Silver Oil;Amber Oil;Teal Oil
-Hunter's Gambit;Clear Oil;Silver Oil;Verdant Oil
-Indomitable Army;Silver Oil;Violet Oil;Crimson Oil
-Inexorable;Opalescent Oil;Silver Oil;Crimson Oil
-Influence;Golden Oil;Verdant Oil;Teal Oil
-Infused;Silver Oil;Silver Oil;Crimson Oil
+Holy Fire;Amber Oil;Teal Oil;Silver Oil
+Hunter's Gambit;Clear Oil;Verdant Oil;Silver Oil
+Indomitable Army;Violet Oil;Crimson Oil;Silver Oil
+Inexorable;Crimson Oil;Opalescent Oil;Silver Oil
+Influence;Verdant Oil;Teal Oil;Golden Oil
 Infused Flesh;Amber Oil;Indigo Oil;Black Oil
-Insightfulness;Golden Oil;Verdant Oil;Verdant Oil
-Inspiring Bond;Sepia Oil;Sepia Oil;Violet Oil
-Instability;Silver Oil;Silver Oil;Verdant Oil
+Infused;Crimson Oil;Silver Oil;Silver Oil
+Insightfulness;Verdant Oil;Verdant Oil;Golden Oil
+Inspiring Bond;Amber Oil;Teal Oil;Indigo Oil
+Instability;Verdant Oil;Silver Oil;Silver Oil
 Instinct;Sepia Oil;Sepia Oil;Azure Oil
 Intuition;Amber Oil;Violet Oil;Violet Oil
-Inveterate;Golden Oil;Black Oil;Black Oil
+Inveterate;Black Oil;Black Oil;Golden Oil
+Invigorating Blaze;Clear Oil;Teal Oil;Indigo Oil
 Ironwood;Clear Oil;Amber Oil;Teal Oil
-Juggernaut;Opalescent Oil;Amber Oil;Teal Oil
+Juggernaut;Amber Oil;Teal Oil;Opalescent Oil
 Kinetic Impacts;Amber Oil;Azure Oil;Violet Oil
-King of the Hill;Silver Oil;Verdant Oil;Violet Oil
+King of the Hill;Verdant Oil;Violet Oil;Silver Oil
+Last Rites;Sepia Oil;Black Oil;Black Oil
 Lava Lash;Clear Oil;Clear Oil;Golden Oil
-Leadership;Opalescent Oil;Silver Oil;Violet Oil
-Lethality;Silver Oil;Sepia Oil;Violet Oil
-Life Raker;Silver Oil;Sepia Oil;Verdant Oil
+Leadership;Violet Oil;Opalescent Oil;Silver Oil
+Lethality;Sepia Oil;Violet Oil;Silver Oil
+Life Raker;Sepia Oil;Verdant Oil;Silver Oil
 Light Eater;Azure Oil;Violet Oil;Crimson Oil
 Light of Divinity;Violet Oil;Crimson Oil;Crimson Oil
 Lightning Walker;Sepia Oil;Sepia Oil;Black Oil
-Longshot;Opalescent Oil;Teal Oil;Crimson Oil
-Lord of the Dead;Silver Oil;Verdant Oil;Crimson Oil
-Lust for Carnage;Opalescent Oil;Golden Oil;Teal Oil
+Longshot;Teal Oil;Crimson Oil;Opalescent Oil
+Lord of the Dead;Verdant Oil;Crimson Oil;Silver Oil
+Lust for Carnage;Teal Oil;Opalescent Oil;Golden Oil
 Magmatic Strikes;Amber Oil;Black Oil;Black Oil
-Malicious Intent;Silver Oil;Indigo Oil;Indigo Oil
+Malicious Intent;Indigo Oil;Indigo Oil;Silver Oil
 Mana Flows;Clear Oil;Opalescent Oil;Golden Oil
-Mark the Prey;Sepia Oil;Indigo Oil;Crimson Oil
-Marked for Death;Silver Oil;Sepia Oil;Indigo Oil
+Mark the Prey;Sepia Oil;Indigo Oil;Black Oil
+Marked for Death;Sepia Oil;Indigo Oil;Silver Oil
 Martial Experience;Clear Oil;Verdant Oil;Azure Oil
 Master Fletcher;Sepia Oil;Crimson Oil;Silver Oil
-Master of Blades;Opalescent Oil;Golden Oil;Azure Oil
-Master of the Arena;Opalescent Oil;Silver Oil;Sepia Oil
-Master Sapper;Opalescent Oil;Teal Oil;Black Oil
-Measured Fury;Golden Oil;Amber Oil;Black Oil
-Melding;Opalescent Oil;Sepia Oil;Violet Oil
+Master Sapper;Teal Oil;Black Oil;Opalescent Oil
+Master of Blades;Azure Oil;Opalescent Oil;Golden Oil
+Master of the Arena;Sepia Oil;Opalescent Oil;Silver Oil
+Measured Fury;Amber Oil;Black Oil;Golden Oil
+Melding;Sepia Oil;Violet Oil;Opalescent Oil
 Mental Rapidity;Sepia Oil;Violet Oil;Black Oil
-Merciless Skewering;Silver Oil;Violet Oil;Violet Oil
+Merciless Skewering;Violet Oil;Violet Oil;Silver Oil
 Might;Clear Oil;Amber Oil;Amber Oil
 Mind Drinker;Verdant Oil;Teal Oil;Teal Oil
-Multishot;Violet Oil;Black Oil;Silver Oil
+Multishot;Indigo Oil;Black Oil;Silver Oil
 Mystic Bulwark;Teal Oil;Teal Oil;Teal Oil
-Mystic Talents;Opalescent Oil;Silver Oil;Amber Oil
-Mysticism;Opalescent Oil;Teal Oil;Azure Oil
-Natural Authority;Silver Oil;Golden Oil;Sepia Oil
-Natural Remedies;Opalescent Oil;Silver Oil;Indigo Oil
-Nightstalker;Golden Oil;Sepia Oil;Teal Oil
+Mysticism;Teal Oil;Azure Oil;Opalescent Oil
+Natural Authority;Sepia Oil;Silver Oil;Golden Oil
+Natural Remedies;Indigo Oil;Opalescent Oil;Silver Oil
+Nightstalker;Sepia Oil;Teal Oil;Golden Oil
 Nimbleness;Amber Oil;Crimson Oil;Crimson Oil
-One with Evil;Silver Oil;Verdant Oil;Teal Oil
 One With Nature;Verdant Oil;Crimson Oil;Black Oil
-One with the River;Opalescent Oil;Opalescent Oil;Teal Oil
-Overcharge;Silver Oil;Crimson Oil;Black Oil
+One with the River;Teal Oil;Opalescent Oil;Opalescent Oil
+Overcharge;Crimson Oil;Black Oil;Silver Oil
 Overcharged;Clear Oil;Opalescent Oil;Silver Oil
 Overprepared;Amber Oil;Amber Oil;Azure Oil
 Pain Forger;Clear Oil;Violet Oil;Violet Oil
-Panopticon;Opalescent Oil;Verdant Oil;Indigo Oil
+Panopticon;Amber Oil;Golden Oil;Golden Oil
 Path of the Hunter;Clear Oil;Verdant Oil;Verdant Oil
 Path of the Savant;Sepia Oil;Amber Oil;Verdant Oil
 Path of the Warrior;Amber Oil;Amber Oil;Amber Oil
-Persistence;Clear Oil;Golden Oil;Violet Oil
+Perfectionist;Verdant Oil;Teal Oil;Silver Oil
 Physique;Clear Oil;Clear Oil;Teal Oil
-Piercing Shots;Opalescent Oil;Silver Oil;Black Oil
+Piercing Shots;Black Oil;Opalescent Oil;Silver Oil
 Poisonous Fangs;Clear Oil;Amber Oil;Azure Oil
-Potency of Will;Opalescent Oil;Sepia Oil;Sepia Oil
+Potency of Will;Sepia Oil;Sepia Oil;Opalescent Oil
+Potent Connections;Sepia Oil;Sepia Oil;Violet Oil
 Powerful Bond;Indigo Oil;Indigo Oil;Indigo Oil
 Practical Application;Clear Oil;Clear Oil;Violet Oil
 Precision;Sepia Oil;Sepia Oil;Crimson Oil
-Presage;Golden Oil;Amber Oil;Indigo Oil
+Presage;Amber Oil;Indigo Oil;Golden Oil
 Primal Manifestation;Amber Oil;Verdant Oil;Crimson Oil
 Primal Spirit;Sepia Oil;Azure Oil;Black Oil
-Primeval Force;Silver Oil;Azure Oil;Violet Oil
-Prism Weave;Opalescent Oil;Opalescent Oil;Sepia Oil
+Primeval Force;Azure Oil;Violet Oil;Silver Oil
+Prism Weave;Sepia Oil;Opalescent Oil;Opalescent Oil
 Prismatic Skin;Silver Oil;Golden Oil;Golden Oil
 Prodigal Perfection;Clear Oil;Azure Oil;Azure Oil
-Profane Chemistry;Silver Oil;Verdant Oil;Black Oil
+Profane Chemistry;Verdant Oil;Black Oil;Silver Oil
 Proficiency;Sepia Oil;Sepia Oil;Amber Oil
 Prowess;Clear Oil;Clear Oil;Verdant Oil
-Purity of Flesh;Clear Oil;Silver Oil;Black Oil
-Quick Recovery;Golden Oil;Teal Oil;Teal Oil
+Purity of Flesh;Clear Oil;Black Oil;Silver Oil
+Quick Recovery;Teal Oil;Teal Oil;Golden Oil
 Quickstep;Amber Oil;Amber Oil;Verdant Oil
 Rampart;Amber Oil;Verdant Oil;Black Oil
-Ravenous Horde;Silver Oil;Golden Oil;Verdant Oil
+Ravenous Horde;Verdant Oil;Silver Oil;Golden Oil
 Razor's Edge;Verdant Oil;Teal Oil;Violet Oil
 Redemption;Sepia Oil;Violet Oil;Crimson Oil
-Reflexes;Golden Oil;Azure Oil;Black Oil
+Reflexes;Azure Oil;Black Oil;Golden Oil
+Relentless Pursuit;Sepia Oil;Indigo Oil;Crimson Oil
 Relentless;Sepia Oil;Verdant Oil;Indigo Oil
 Replenishing Remedies;Sepia Oil;Amber Oil;Indigo Oil
-Resourcefulness;Opalescent Oil;Opalescent Oil;Verdant Oil
-Retaliation;Opalescent Oil;Verdant Oil;Crimson Oil
-Retribution;Clear Oil;Opalescent Oil;Crimson Oil
+Resourcefulness;Verdant Oil;Opalescent Oil;Opalescent Oil
+Retaliation;Verdant Oil;Crimson Oil;Opalescent Oil
+Retribution;Clear Oil;Crimson Oil;Opalescent Oil
 Revelry;Amber Oil;Violet Oil;Black Oil
-Revenge of the Hunted;Silver Oil;Golden Oil;Black Oil
+Revenge of the Hunted;Black Oil;Silver Oil;Golden Oil
 Ribcage Crusher;Teal Oil;Black Oil;Black Oil
 Righteous Army;Verdant Oil;Black Oil;Black Oil
 Righteous Decree;Sepia Oil;Sepia Oil;Teal Oil
+Righteous Fury;Verdant Oil;Indigo Oil;Indigo Oil
 Robust;Clear Oil;Verdant Oil;Teal Oil
-Runesmith;Silver Oil;Azure Oil;Crimson Oil
+Runesmith;Azure Oil;Crimson Oil;Silver Oil
 Saboteur;Clear Oil;Teal Oil;Teal Oil
 Sacrifice;Teal Oil;Azure Oil;Violet Oil
 Safeguard;Verdant Oil;Azure Oil;Black Oil
 Sanctity;Azure Oil;Azure Oil;Black Oil
 Sanctuary;Amber Oil;Teal Oil;Teal Oil
-Sanctum of Thought;Golden Oil;Azure Oil;Azure Oil
-Savage Wounds;Golden Oil;Teal Oil;Black Oil
-Savagery;Golden Oil;Crimson Oil;Black Oil
-Searing Heat;Silver Oil;Amber Oil;Azure Oil
-Season of Ice;Golden Oil;Indigo Oil;Black Oil
+Sanctum of Thought;Azure Oil;Azure Oil;Golden Oil
+Savage Wounds;Teal Oil;Black Oil;Golden Oil
+Savagery;Crimson Oil;Black Oil;Golden Oil
+Searing Heat;Amber Oil;Azure Oil;Silver Oil
+Season of Ice;Indigo Oil;Black Oil;Golden Oil
+Seasoned Swordplay;Amber Oil;Indigo Oil;Opalescent Oil
 Sentinel;Verdant Oil;Teal Oil;Azure Oil
-Serpent Stance;Opalescent Oil;Azure Oil;Black Oil
-Serpentine Spellslinger;Opalescent Oil;Indigo Oil;Violet Oil
-Shaman's Dominion;Clear Oil;Silver Oil;Azure Oil
+Serpent Stance;Azure Oil;Black Oil;Opalescent Oil
+Serpentine Spellslinger;Indigo Oil;Violet Oil;Opalescent Oil
+Settling Ash;Clear Oil;Indigo Oil;Golden Oil
+Shaman's Dominion;Clear Oil;Azure Oil;Silver Oil
 Shamanistic Fury;Sepia Oil;Amber Oil;Violet Oil
 Shaper;Clear Oil;Crimson Oil;Crimson Oil
 Silent Steps;Amber Oil;Verdant Oil;Violet Oil
 Skittering Runes;Opalescent Oil;Silver Oil;Silver Oil
-Skull Cracking;Clear Oil;Opalescent Oil;Black Oil
+Skull Cracking;Clear Oil;Black Oil;Opalescent Oil
 Slaughter;Azure Oil;Azure Oil;Azure Oil
-Sleight of Hand;Opalescent Oil;Verdant Oil;Teal Oil
+Sleight of Hand;Verdant Oil;Teal Oil;Opalescent Oil
 Smashing Strikes;Azure Oil;Azure Oil;Violet Oil
-Snowforged;Golden Oil;Amber Oil;Teal Oil
-Soul of Steel;Clear Oil;Golden Oil;Golden Oil
+Snowforged;Amber Oil;Teal Oil;Golden Oil
 Soul Siphon;Amber Oil;Amber Oil;Violet Oil
-Soul Thief;Opalescent Oil;Sepia Oil;Crimson Oil
+Soul Thief;Sepia Oil;Crimson Oil;Opalescent Oil
+Soul of Steel;Clear Oil;Golden Oil;Golden Oil
 Sovereignty;Silver Oil;Silver Oil;Silver Oil
 Spiked Bulwark;Clear Oil;Sepia Oil;Teal Oil
 Spinecruncher;Verdant Oil;Violet Oil;Violet Oil
 Spirit Void;Verdant Oil;Verdant Oil;Verdant Oil
 Spiritual Aid;Silver Oil;Silver Oil;Golden Oil
-Spiritual Command;Golden Oil;Sepia Oil;Sepia Oil
-Split Shot;Clear Oil;Opalescent Oil;Indigo Oil
-Stamina;Silver Oil;Black Oil;Black Oil
+Spiritual Command;Sepia Oil;Sepia Oil;Golden Oil
+Split Shot;Clear Oil;Indigo Oil;Opalescent Oil
+Stamina;Black Oil;Black Oil;Silver Oil
 Static Blows;Teal Oil;Violet Oil;Crimson Oil
-Steadfast;Golden Oil;Golden Oil;Sepia Oil
+Steadfast;Sepia Oil;Golden Oil;Golden Oil
 Steelwood Stance;Teal Oil;Teal Oil;Azure Oil
 Steeped in the Profane;Sepia Oil;Indigo Oil;Golden Oil
 Storm Weaver;Sepia Oil;Crimson Oil;Black Oil
-Strong Arm;Clear Oil;Opalescent Oil;Azure Oil
+Strong Arm;Clear Oil;Azure Oil;Opalescent Oil
 Successive Detonations;Clear Oil;Clear Oil;Crimson Oil
-Surveillance;Opalescent Oil;Sepia Oil;Indigo Oil
-Survivalist;Golden Oil;Azure Oil;Crimson Oil
-Swagger;Silver Oil;Teal Oil;Violet Oil
-Swift Venoms;Clear Oil;Golden Oil;Amber Oil
-Taste for Blood;Silver Oil;Amber Oil;Violet Oil
-Tempest Blast;Silver Oil;Amber Oil;Verdant Oil
-Tenacity;Golden Oil;Golden Oil;Crimson Oil
+Surge of Vigour;Amber Oil;Indigo Oil;Violet Oil
+Surveillance;Sepia Oil;Indigo Oil;Opalescent Oil
+Survivalist;Azure Oil;Crimson Oil;Golden Oil
+Swagger;Teal Oil;Violet Oil;Silver Oil
+Swift Venoms;Clear Oil;Amber Oil;Golden Oil
+Taste for Blood;Amber Oil;Violet Oil;Silver Oil
+Tempest Blast;Amber Oil;Verdant Oil;Silver Oil
 Testudo;Clear Oil;Sepia Oil;Black Oil
-Thick Skin;Silver Oil;Silver Oil;Violet Oil
+Thick Skin;Violet Oil;Silver Oil;Silver Oil
 Thief's Craft;Clear Oil;Sepia Oil;Amber Oil
 Thrill Killer;Amber Oil;Amber Oil;Teal Oil
-Throatseeker;Opalescent Oil;Amber Oil;Violet Oil
+Throatseeker;Amber Oil;Violet Oil;Opalescent Oil
 Tireless;Opalescent Oil;Opalescent Oil;Opalescent Oil
-Titanic Impacts;Opalescent Oil;Amber Oil;Verdant Oil
-Tolerance;Opalescent Oil;Crimson Oil;Crimson Oil
+Titanic Impacts;Amber Oil;Verdant Oil;Opalescent Oil
+Tolerance;Crimson Oil;Crimson Oil;Opalescent Oil
 Totemic Zeal;Verdant Oil;Verdant Oil;Violet Oil
 Toxic Strikes;Clear Oil;Amber Oil;Crimson Oil
-Tranquility;Golden Oil;Golden Oil;Azure Oil
+Trial of the Faith;Sepia Oil;Indigo Oil;Indigo Oil
 Tribal Fury;Opalescent Oil;Silver Oil;Golden Oil
-Trick Shot;Golden Oil;Amber Oil;Violet Oil
+Trick Shot;Amber Oil;Violet Oil;Golden Oil
 Trickery;Verdant Oil;Verdant Oil;Black Oil
 True Strike;Teal Oil;Crimson Oil;Black Oil
 Twin Terrors;Clear Oil;Azure Oil;Black Oil
 Undertaker;Indigo Oil;Indigo Oil;Black Oil
 Unfaltering;Indigo Oil;Indigo Oil;Crimson Oil
-Unnatural Calm;Golden Oil;Golden Oil;Verdant Oil
+Unnatural Calm;Verdant Oil;Golden Oil;Golden Oil
 Unstable Munitions;Teal Oil;Violet Oil;Violet Oil
 Utmost Intellect;Amber Oil;Violet Oil;Crimson Oil
 Utmost Might;Amber Oil;Azure Oil;Crimson Oil
 Utmost Swiftness;Sepia Oil;Teal Oil;Crimson Oil
 Vampirism;Amber Oil;Teal Oil;Violet Oil
-Vanquisher;Silver Oil;Verdant Oil;Indigo Oil
-Vengeant Cascade;Golden Oil;Golden Oil;Amber Oil
-Versatility;Opalescent Oil;Verdant Oil;Verdant Oil
-Veteran Soldier;Golden Oil;Teal Oil;Indigo Oil
-Vigour;Opalescent Oil;Opalescent Oil;Crimson Oil
+Vanquisher;Verdant Oil;Indigo Oil;Silver Oil
+Versatility;Verdant Oil;Verdant Oil;Opalescent Oil
+Veteran Soldier;Teal Oil;Indigo Oil;Golden Oil
+Vigour;Crimson Oil;Opalescent Oil;Opalescent Oil
 Vitality Void;Clear Oil;Silver Oil;Golden Oil
-Void Barrier;Silver Oil;Golden Oil;Crimson Oil
-Volatile Mines;Opalescent Oil;Opalescent Oil;Azure Oil
+Void Barrier;Crimson Oil;Silver Oil;Golden Oil
+Volatile Mines;Azure Oil;Opalescent Oil;Opalescent Oil
 Wandslinger;Teal Oil;Teal Oil;Crimson Oil
 Warrior Training;Clear Oil;Teal Oil;Crimson Oil
 Warrior's Blood;Teal Oil;Teal Oil;Black Oil
-Wasting;Silver Oil;Silver Oil;Sepia Oil
-Watchtowers;Silver Oil;Silver Oil;Indigo Oil
-Way of the Warrior;Opalescent Oil;Black Oil;Black Oil
+Wasting;Sepia Oil;Silver Oil;Silver Oil
+Watchtowers;Indigo Oil;Silver Oil;Silver Oil
 Weapon Artistry;Clear Oil;Amber Oil;Violet Oil
 Weathered Hunter;Sepia Oil;Amber Oil;Teal Oil
 Whirling Barrier;Amber Oil;Teal Oil;Crimson Oil
 Whispers of Doom;Golden Oil;Golden Oil;Golden Oil
 Will of Blades;Sepia Oil;Verdant Oil;Black Oil
-Window of Opportunity;Opalescent Oil;Opalescent Oil;Indigo Oil
-Winter Spirit;Silver Oil;Sepia Oil;Teal Oil
+Window of Opportunity;Indigo Oil;Opalescent Oil;Opalescent Oil
+Winter Spirit;Sepia Oil;Teal Oil;Silver Oil
+Winter's Embrace;Clear Oil;Indigo Oil;Crimson Oil
 Wisdom of the Glade;Clear Oil;Clear Oil;Amber Oil
-Wrecking Ball;Clear Oil;Opalescent Oil;Teal Oil
-Written in Blood;Golden Oil;Sepia Oil;Violet Oil
+Wrecking Ball;Clear Oil;Teal Oil;Opalescent Oil
+Written in Blood;Sepia Oil;Violet Oil;Golden Oil
 #Rings;;;
 Your Chilling Towers deal 25% increased Damage;Clear Oil;Clear Oil;
 Your Meteor Towers create Burning Ground for 3 seconds on Hit;Indigo Oil;Violet Oil;
