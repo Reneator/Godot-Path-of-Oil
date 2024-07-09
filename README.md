@@ -1,4 +1,4 @@
-This Project is obsolete, as Awakened Trade Macro also has the oils on display when you check an item with an annointment.
+This Project is currently not being updated. Feel free to update/contribute if you like.
 
 # Godot-Path-of-Oil
 Inspired by https://github.com/DrZed/Path-Of-Oil and using the icons. And the anointment csv files in a modified/cleaned up form.
