@@ -22,7 +22,7 @@ func add_stats_entry(line):
 	stats.append(trim_line(line))
 
 func trim_line(line):
-	return line.replacen("\"", "").replacen(",", "")
+	return line.replacen("\"", "").replacen(",", "").strip_edges(true, true)
 
 func as_csv_line_array():
 	var array = []

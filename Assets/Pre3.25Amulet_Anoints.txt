@@ -1,0 +1,408 @@
+Acrimony;ClearOil;BlackOil;BlackOil
+Acuity;ClearOil;VioletOil;BlackOil
+Adamant;AzureOil;VioletOil;BlackOil
+Adder's Touch;OpalescentOil;SepiaOil;BlackOil
+Adjacent Animosity;OpalescentOil;IndigoOil;CrimsonOil
+Admonisher;OpalescentOil;SepiaOil;AzureOil
+Aggressive Bastion;VerdantOil;VioletOil;BlackOil
+Agility;ClearOil;SepiaOil;SepiaOil
+Alacrity;ClearOil;ClearOil;ClearOil
+Ambidexterity;AmberOil;AzureOil;BlackOil
+Amplify;OpalescentOil;AmberOil;AzureOil
+Ancestral Knowledge;ClearOil;SepiaOil;VerdantOil
+Annihilation;ClearOil;ClearOil;BlackOil
+Anointed Flesh;GoldenOil;GoldenOil;IndigoOil
+Arcane Capacitor;GoldenOil;VioletOil;BlackOil
+Arcane Chemistry;SilverOil;SilverOil;AmberOil
+Arcane Expanse;GoldenOil;CrimsonOil;CrimsonOil
+Arcane Focus;VerdantOil;CrimsonOil;CrimsonOil
+Arcane Guarding;ClearOil;TealOil;BlackOil
+Arcane Potency;SilverOil;AzureOil;BlackOil
+Arcane Sanctuary;ClearOil;SilverOil;SilverOil
+Arcane Will;SilverOil;AmberOil;AmberOil
+Arcanist's Dominion;ClearOil;CrimsonOil;BlackOil
+Arcing Blows;ClearOil;ClearOil;SilverOil
+Arsonist;VerdantOil;VerdantOil;AzureOil
+Art of the Gladiator;OpalescentOil;GoldenOil;SepiaOil
+Ash, Frost and Storm;SepiaOil;CrimsonOil;CrimsonOil
+Aspect of Stone;GoldenOil;GoldenOil;VioletOil
+Aspect of the Eagle;AmberOil;VerdantOil;VerdantOil
+Aspect of the Lynx;VioletOil;VioletOil;CrimsonOil
+Assassination;OpalescentOil;GoldenOil;BlackOil
+Assured Strike;ClearOil;IndigoOil;BlackOil
+Asylum;SilverOil;IndigoOil;VioletOil
+Atrophy;ClearOil;GoldenOil;SepiaOil
+Avatar of the Hunt;ClearOil;OpalescentOil;OpalescentOil
+Backstabbing;ClearOil;SilverOil;TealOil
+Ballistics;OpalescentOil;AzureOil;VioletOil
+Bannerman;IndigoOil;VioletOil;CrimsonOil
+Barbarism;OpalescentOil;OpalescentOil;GoldenOil
+Bastion Breaker;SepiaOil;TealOil;IndigoOil
+Battle Rouse;SepiaOil;VerdantOil;AzureOil
+Beef;ClearOil;ClearOil;SepiaOil
+Berserking;ClearOil;OpalescentOil;SepiaOil
+Blacksmith's Clout;OpalescentOil;VerdantOil;BlackOil
+Blade Barrier;ClearOil;OpalescentOil;VioletOil
+Blade Master;ClearOil;SilverOil;SepiaOil
+Blade of Cunning;SilverOil;SepiaOil;AzureOil
+Bladedancer;AmberOil;AmberOil;CrimsonOil
+Blast Radius;ClearOil;OpalescentOil;VerdantOil
+Blast Waves;ClearOil;VerdantOil;CrimsonOil
+Blood Drinker;OpalescentOil;OpalescentOil;SilverOil
+Blood Siphon;OpalescentOil;SilverOil;AzureOil
+Bloodless;GoldenOil;AmberOil;CrimsonOil
+Bloodletting;SilverOil;AzureOil;AzureOil
+Blunt Trauma;SilverOil;TealOil;CrimsonOil
+Bone Breaker;VerdantOil;AzureOil;AzureOil
+Born to Fight;GoldenOil;VioletOil;VioletOil
+Brand Equity;IndigoOil;VioletOil;BlackOil
+Bravery;OpalescentOil;OpalescentOil;VioletOil
+Breath of Flames;GoldenOil;VerdantOil;AzureOil
+Breath of Lightning;GoldenOil;AzureOil;VioletOil
+Breath of Rime;SilverOil;SilverOil;TealOil
+Brinkmanship;ClearOil;OpalescentOil;AmberOil
+Brink of Death;VerdantOil;IndigoOil;VioletOil
+Brutal Blade;GoldenOil;SepiaOil;VerdantOil
+Burning Brutality;TealOil;IndigoOil;VioletOil
+Butchery;VerdantOil;VioletOil;CrimsonOil
+Cannibalistic Rite;TealOil;AzureOil;AzureOil
+Careful Conservationist;OpalescentOil;IndigoOil;BlackOil
+Carrion;SepiaOil;BlackOil;BlackOil
+Champion of the Cause;GoldenOil;TealOil;CrimsonOil
+Charisma;OpalescentOil;GoldenOil;GoldenOil
+Claws of the Falcon;GoldenOil;AmberOil;AmberOil
+Claws of the Hawk;OpalescentOil;VioletOil;BlackOil
+Claws of the Magpie;SepiaOil;AzureOil;AzureOil
+Cleansed Thoughts;ClearOil;GoldenOil;AzureOil
+Cleaving;SepiaOil;AmberOil;BlackOil
+Clever Construction;SepiaOil;AzureOil;CrimsonOil
+Clever Thief;ClearOil;VerdantOil;IndigoOil
+Cloth and Chain;ClearOil;ClearOil;AzureOil
+Coldhearted Calculation;CrimsonOil;CrimsonOil;CrimsonOil
+Combat Stamina;ClearOil;VerdantOil;BlackOil
+Command of Steel;OpalescentOil;AmberOil;CrimsonOil
+Constitution;GoldenOil;TealOil;VioletOil
+Coordination;AmberOil;CrimsonOil;BlackOil
+Corruption;CrimsonOil;BlackOil;BlackOil
+Counterweight;ClearOil;SilverOil;AmberOil
+Courage;AzureOil;VioletOil;VioletOil
+Crackling Speed;OpalescentOil;OpalescentOil;BlackOil
+Cruel Preparation;SilverOil;TealOil;BlackOil
+Crusader;GoldenOil;GoldenOil;BlackOil
+Crystal Skin;SilverOil;SepiaOil;BlackOil
+Dark Arts;OpalescentOil;TealOil;VioletOil
+Dazzling Strikes;OpalescentOil;TealOil;TealOil
+Deadly Draw;SilverOil;SepiaOil;CrimsonOil
+Deadly Inclinations;GoldenOil;VerdantOil;BlackOil
+Death Attunement;ClearOil;SilverOil;CrimsonOil
+Decay Ward;SepiaOil;VerdantOil;TealOil
+Deep Breaths;OpalescentOil;TealOil;IndigoOil
+Deep Thoughts;ClearOil;VerdantOil;VioletOil
+Deep Wisdom;SepiaOil;TealOil;TealOil
+Defiance;AmberOil;TealOil;BlackOil
+Deflection;SilverOil;AmberOil;IndigoOil
+Depth Perception;AmberOil;VerdantOil;TealOil
+Dervish;AzureOil;CrimsonOil;BlackOil
+Destroyer;OpalescentOil;SepiaOil;VerdantOil
+Destructive Apparatus;SilverOil;SepiaOil;AmberOil
+Devastating Devices;SilverOil;TealOil;TealOil
+Devotion;SilverOil;CrimsonOil;CrimsonOil
+Diamond Skin;OpalescentOil;SepiaOil;TealOil
+Dire Torment;OpalescentOil;AzureOil;CrimsonOil
+Dirty Techniques;OpalescentOil;GoldenOil;AmberOil
+Disciple of the Forbidden;BlackOil;BlackOil;BlackOil
+Disciple of the Slaughter;GoldenOil;AmberOil;VerdantOil
+Disciple of the Unyielding;OpalescentOil;VioletOil;CrimsonOil
+Discipline and Training;SilverOil;SilverOil;BlackOil
+Discord Artisan;AmberOil;TealOil;AzureOil
+Disemboweling;GoldenOil;VerdantOil;VioletOil
+Disintegration;VioletOil;BlackOil;BlackOil
+Dismembering;OpalescentOil;GoldenOil;VioletOil
+Divine Fervour;VerdantOil;TealOil;IndigoOil
+Divine Fury;AmberOil;AmberOil;BlackOil
+Divine Judgement;SepiaOil;TealOil;BlackOil
+Divine Wrath;OpalescentOil;AmberOil;AmberOil
+Doom Cast;GoldenOil;AmberOil;AzureOil
+Dreamer;SepiaOil;TealOil;AzureOil
+Druidic Rite;ClearOil;GoldenOil;CrimsonOil
+Dynamo;ClearOil;SepiaOil;AzureOil
+Eagle Eye;ClearOil;ClearOil;OpalescentOil
+Efficient Explosives;SepiaOil;TealOil;VioletOil
+Elder Power;TealOil;TealOil;VioletOil
+Elemental Focus;SepiaOil;AmberOil;AzureOil
+Endurance;ClearOil;GoldenOil;BlackOil
+Enduring Bond;ClearOil;GoldenOil;VerdantOil
+Enigmatic Defence;VioletOil;VioletOil;VioletOil
+Enigmatic Reach;VerdantOil;TealOil;BlackOil
+Entrench;SepiaOil;AzureOil;VioletOil
+Entropy;SepiaOil;AmberOil;CrimsonOil
+Essence Extraction;CrimsonOil;CrimsonOil;BlackOil
+Essence Infusion;ClearOil;AmberOil;VerdantOil
+Essence Sap;TealOil;VioletOil;BlackOil
+Essence Surge;SilverOil;GoldenOil;TealOil
+Ethereal Feast;SilverOil;GoldenOil;AmberOil
+Exceptional Performance;ClearOil;AmberOil;BlackOil
+Excess Sustenance;TealOil;VioletOil;VioletOil
+Executioner;AmberOil;VerdantOil;AzureOil
+Expeditious Munitions;ClearOil;AzureOil;VioletOil
+Expertise;SepiaOil;SepiaOil;SepiaOil
+Explosive Elements;SilverOil;AmberOil;CrimsonOil
+Explosive Impact;OpalescentOil;VerdantOil;AzureOil
+Explosive Runes;AmberOil;AzureOil;AzureOil
+Faith and Steel;GoldenOil;SepiaOil;BlackOil
+Fangs of Frost;SilverOil;SepiaOil;SepiaOil
+Fangs of the Viper;ClearOil;TealOil;AzureOil
+Farsight;VerdantOil;VerdantOil;CrimsonOil
+Fatal Blade;OpalescentOil;OpalescentOil;AmberOil
+Fatal Toxins;ClearOil;SilverOil;VioletOil
+Fearsome Force;TealOil;AzureOil;CrimsonOil
+Feller of Foes;OpalescentOil;AmberOil;BlackOil
+Fending;SepiaOil;SepiaOil;VerdantOil
+Fervour;SilverOil;AmberOil;BlackOil
+Field Medicine;IndigoOil;CrimsonOil;BlackOil
+Finesse;TealOil;AzureOil;BlackOil
+Fingers of Frost;GoldenOil;VioletOil;CrimsonOil
+Fire Walker;VioletOil;CrimsonOil;BlackOil
+Flash Freeze;VerdantOil;AzureOil;CrimsonOil
+Flaying;ClearOil;VioletOil;CrimsonOil
+Fleetfoot;OpalescentOil;SepiaOil;AmberOil
+Force Shaper;ClearOil;SilverOil;IndigoOil
+Forceful Skewering;VerdantOil;AzureOil;VioletOil
+Forces of Nature;SilverOil;VerdantOil;AzureOil
+Foresight;OpalescentOil;GoldenOil;VerdantOil
+Forethought;TealOil;IndigoOil;BlackOil
+Freedom of Movement;ClearOil;SepiaOil;VioletOil
+Frenetic;SilverOil;SilverOil;AzureOil
+From the Shadows;ClearOil;AzureOil;CrimsonOil
+Frost Walker;OpalescentOil;VerdantOil;VioletOil
+Fury Bolts;VerdantOil;VerdantOil;TealOil
+Fusillade;SepiaOil;VerdantOil;VerdantOil
+Galvanic Hammer;ClearOil;SepiaOil;CrimsonOil
+Gladiator's Perseverance;SilverOil;TealOil;AzureOil
+Golem Commander;SilverOil;GoldenOil;AzureOil
+Golem's Blood;GoldenOil;GoldenOil;TealOil
+Goliath;GoldenOil;SepiaOil;AmberOil
+Graceful Assault;VioletOil;VioletOil;BlackOil
+Grave Intentions;SepiaOil;VioletOil;VioletOil
+Gravepact;AzureOil;BlackOil;BlackOil
+Growth and Decay;ClearOil;GoldenOil;TealOil
+Hard Knocks;SepiaOil;AmberOil;AmberOil
+Hardened Scars;ClearOil;TealOil;VioletOil
+Harpooner;TealOil;IndigoOil;CrimsonOil
+Harrier;AzureOil;CrimsonOil;CrimsonOil
+Harvester of Foes;ClearOil;AmberOil;IndigoOil
+Hasty Reconstruction;AmberOil;AmberOil;AzureOil
+Hatchet Master;VerdantOil;TealOil;CrimsonOil
+Heart and Soul;GoldenOil;SepiaOil;CrimsonOil
+Heart of Darkness;OpalescentOil;AzureOil;AzureOil
+Heart of Flame;GoldenOil;TealOil;AzureOil
+Heart of Ice;OpalescentOil;GoldenOil;CrimsonOil
+Heart of Oak;GoldenOil;VerdantOil;CrimsonOil
+Heart of the Warrior;SilverOil;GoldenOil;VioletOil
+Heart of Thunder;GoldenOil;SepiaOil;AzureOil
+Heartseeker;TealOil;CrimsonOil;CrimsonOil
+Hearty;OpalescentOil;SilverOil;VerdantOil
+Heavy Draw;SepiaOil;VerdantOil;VioletOil
+Hematophagy;SilverOil;VioletOil;BlackOil
+Herbalism;OpalescentOil;SilverOil;TealOil
+Hex Master;OpalescentOil;CrimsonOil;BlackOil
+High Explosives;SilverOil;VerdantOil;VerdantOil
+High Voltage;IndigoOil;IndigoOil;AmberOil
+Hired Killer;OpalescentOil;VioletOil;VioletOil
+Holy Dominion;AzureOil;AzureOil;CrimsonOil
+Holy Fire;SilverOil;AmberOil;TealOil
+Hunter's Gambit;ClearOil;SilverOil;VerdantOil
+Indomitable Army;SilverOil;VioletOil;CrimsonOil
+Inexorable;OpalescentOil;SilverOil;CrimsonOil
+Influence;GoldenOil;VerdantOil;TealOil
+Infused;SilverOil;SilverOil;CrimsonOil
+Infused Flesh;AmberOil;IndigoOil;BlackOil
+Insightfulness;GoldenOil;VerdantOil;VerdantOil
+Inspiring Bond;SepiaOil;SepiaOil;VioletOil
+Instability;SilverOil;SilverOil;VerdantOil
+Instinct;SepiaOil;SepiaOil;AzureOil
+Intuition;AmberOil;VioletOil;VioletOil
+Inveterate;GoldenOil;BlackOil;BlackOil
+Ironwood;ClearOil;AmberOil;TealOil
+Juggernaut;OpalescentOil;AmberOil;TealOil
+Kinetic Impacts;AmberOil;AzureOil;VioletOil
+King of the Hill;SilverOil;VerdantOil;VioletOil
+Lava Lash;ClearOil;ClearOil;GoldenOil
+Leadership;OpalescentOil;SilverOil;VioletOil
+Lethality;SilverOil;SepiaOil;VioletOil
+Life Raker;SilverOil;SepiaOil;VerdantOil
+Light Eater;AzureOil;VioletOil;CrimsonOil
+Light of Divinity;VioletOil;CrimsonOil;CrimsonOil
+Lightning Walker;SepiaOil;SepiaOil;BlackOil
+Longshot;OpalescentOil;TealOil;CrimsonOil
+Lord of the Dead;SilverOil;VerdantOil;CrimsonOil
+Lust for Carnage;OpalescentOil;GoldenOil;TealOil
+Magmatic Strikes;AmberOil;BlackOil;BlackOil
+Malicious Intent;SilverOil;IndigoOil;IndigoOil
+Mana Flows;ClearOil;OpalescentOil;GoldenOil
+Mark the Prey;SepiaOil;IndigoOil;CrimsonOil
+Marked for Death;SilverOil;SepiaOil;IndigoOil
+Martial Experience;ClearOil;VerdantOil;AzureOil
+Master Fletcher;SepiaOil;CrimsonOil;SilverOil
+Master of Blades;OpalescentOil;GoldenOil;AzureOil
+Master of the Arena;OpalescentOil;SilverOil;SepiaOil
+Master Sapper;OpalescentOil;TealOil;BlackOil
+Measured Fury;GoldenOil;AmberOil;BlackOil
+Melding;OpalescentOil;SepiaOil;VioletOil
+Mental Rapidity;SepiaOil;VioletOil;BlackOil
+Merciless Skewering;SilverOil;VioletOil;VioletOil
+Might;ClearOil;AmberOil;AmberOil
+Mind Drinker;VerdantOil;TealOil;TealOil
+Multishot;VioletOil;BlackOil;SilverOil
+Mystic Bulwark;TealOil;TealOil;TealOil
+Mystic Talents;OpalescentOil;SilverOil;AmberOil
+Mysticism;OpalescentOil;TealOil;AzureOil
+Natural Authority;SilverOil;GoldenOil;SepiaOil
+Natural Remedies;OpalescentOil;SilverOil;IndigoOil
+Nightstalker;GoldenOil;SepiaOil;TealOil
+Nimbleness;AmberOil;CrimsonOil;CrimsonOil
+One with Evil;SilverOil;VerdantOil;TealOil
+One With Nature;VerdantOil;CrimsonOil;BlackOil
+One with the River;OpalescentOil;OpalescentOil;TealOil
+Overcharge;SilverOil;CrimsonOil;BlackOil
+Overcharged;ClearOil;OpalescentOil;SilverOil
+Overprepared;AmberOil;AmberOil;AzureOil
+Pain Forger;ClearOil;VioletOil;VioletOil
+Panopticon;OpalescentOil;VerdantOil;IndigoOil
+Path of the Hunter;ClearOil;VerdantOil;VerdantOil
+Path of the Savant;SepiaOil;AmberOil;VerdantOil
+Path of the Warrior;AmberOil;AmberOil;AmberOil
+Persistence;ClearOil;GoldenOil;VioletOil
+Physique;ClearOil;ClearOil;TealOil
+Piercing Shots;OpalescentOil;SilverOil;BlackOil
+Poisonous Fangs;ClearOil;AmberOil;AzureOil
+Potency of Will;OpalescentOil;SepiaOil;SepiaOil
+Powerful Bond;IndigoOil;IndigoOil;IndigoOil
+Practical Application;ClearOil;ClearOil;VioletOil
+Precision;SepiaOil;SepiaOil;CrimsonOil
+Presage;GoldenOil;AmberOil;IndigoOil
+Primal Manifestation;AmberOil;VerdantOil;CrimsonOil
+Primal Spirit;SepiaOil;AzureOil;BlackOil
+Primeval Force;SilverOil;AzureOil;VioletOil
+Prism Weave;OpalescentOil;OpalescentOil;SepiaOil
+Prismatic Skin;SilverOil;GoldenOil;GoldenOil
+Prodigal Perfection;ClearOil;AzureOil;AzureOil
+Profane Chemistry;SilverOil;VerdantOil;BlackOil
+Proficiency;SepiaOil;SepiaOil;AmberOil
+Prowess;ClearOil;ClearOil;VerdantOil
+Purity of Flesh;ClearOil;SilverOil;BlackOil
+Quick Recovery;GoldenOil;TealOil;TealOil
+Quickstep;AmberOil;AmberOil;VerdantOil
+Rampart;AmberOil;VerdantOil;BlackOil
+Ravenous Horde;SilverOil;GoldenOil;VerdantOil
+Razor's Edge;VerdantOil;TealOil;VioletOil
+Redemption;SepiaOil;VioletOil;CrimsonOil
+Reflexes;GoldenOil;AzureOil;BlackOil
+Relentless;SepiaOil;VerdantOil;IndigoOil
+Replenishing Remedies;SepiaOil;AmberOil;IndigoOil
+Resourcefulness;OpalescentOil;OpalescentOil;VerdantOil
+Retaliation;OpalescentOil;VerdantOil;CrimsonOil
+Retribution;ClearOil;OpalescentOil;CrimsonOil
+Revelry;AmberOil;VioletOil;BlackOil
+Revenge of the Hunted;SilverOil;GoldenOil;BlackOil
+Ribcage Crusher;TealOil;BlackOil;BlackOil
+Righteous Army;VerdantOil;BlackOil;BlackOil
+Righteous Decree;SepiaOil;SepiaOil;TealOil
+Robust;ClearOil;VerdantOil;TealOil
+Runesmith;SilverOil;AzureOil;CrimsonOil
+Saboteur;ClearOil;TealOil;TealOil
+Sacrifice;TealOil;AzureOil;VioletOil
+Safeguard;VerdantOil;AzureOil;BlackOil
+Sanctity;AzureOil;AzureOil;BlackOil
+Sanctuary;AmberOil;TealOil;TealOil
+Sanctum of Thought;GoldenOil;AzureOil;AzureOil
+Savage Wounds;GoldenOil;TealOil;BlackOil
+Savagery;GoldenOil;CrimsonOil;BlackOil
+Searing Heat;SilverOil;AmberOil;AzureOil
+Season of Ice;GoldenOil;IndigoOil;BlackOil
+Sentinel;VerdantOil;TealOil;AzureOil
+Serpent Stance;OpalescentOil;AzureOil;BlackOil
+Serpentine Spellslinger;OpalescentOil;IndigoOil;VioletOil
+Shaman's Dominion;ClearOil;SilverOil;AzureOil
+Shamanistic Fury;SepiaOil;AmberOil;VioletOil
+Shaper;ClearOil;CrimsonOil;CrimsonOil
+Silent Steps;AmberOil;VerdantOil;VioletOil
+Skittering Runes;OpalescentOil;SilverOil;SilverOil
+Skull Cracking;ClearOil;OpalescentOil;BlackOil
+Slaughter;AzureOil;AzureOil;AzureOil
+Sleight of Hand;OpalescentOil;VerdantOil;TealOil
+Smashing Strikes;AzureOil;AzureOil;VioletOil
+Snowforged;GoldenOil;AmberOil;TealOil
+Soul of Steel;ClearOil;GoldenOil;GoldenOil
+Soul Siphon;AmberOil;AmberOil;VioletOil
+Soul Thief;OpalescentOil;SepiaOil;CrimsonOil
+Sovereignty;SilverOil;SilverOil;SilverOil
+Spiked Bulwark;ClearOil;SepiaOil;TealOil
+Spinecruncher;VerdantOil;VioletOil;VioletOil
+Spirit Void;VerdantOil;VerdantOil;VerdantOil
+Spiritual Aid;SilverOil;SilverOil;GoldenOil
+Spiritual Command;GoldenOil;SepiaOil;SepiaOil
+Split Shot;ClearOil;OpalescentOil;IndigoOil
+Stamina;SilverOil;BlackOil;BlackOil
+Static Blows;TealOil;VioletOil;CrimsonOil
+Steadfast;GoldenOil;GoldenOil;SepiaOil
+Steelwood Stance;TealOil;TealOil;AzureOil
+Steeped in the Profane;SepiaOil;IndigoOil;GoldenOil
+Storm Weaver;SepiaOil;CrimsonOil;BlackOil
+Strong Arm;ClearOil;OpalescentOil;AzureOil
+Successive Detonations;ClearOil;ClearOil;CrimsonOil
+Surveillance;OpalescentOil;SepiaOil;IndigoOil
+Survivalist;GoldenOil;AzureOil;CrimsonOil
+Swagger;SilverOil;TealOil;VioletOil
+Swift Venoms;ClearOil;GoldenOil;AmberOil
+Taste for Blood;SilverOil;AmberOil;VioletOil
+Tempest Blast;SilverOil;AmberOil;VerdantOil
+Tenacity;GoldenOil;GoldenOil;CrimsonOil
+Testudo;ClearOil;SepiaOil;BlackOil
+Thick Skin;SilverOil;SilverOil;VioletOil
+Thief's Craft;ClearOil;SepiaOil;AmberOil
+Thrill Killer;AmberOil;AmberOil;TealOil
+Throatseeker;OpalescentOil;AmberOil;VioletOil
+Tireless;OpalescentOil;OpalescentOil;OpalescentOil
+Titanic Impacts;OpalescentOil;AmberOil;VerdantOil
+Tolerance;OpalescentOil;CrimsonOil;CrimsonOil
+Totemic Zeal;VerdantOil;VerdantOil;VioletOil
+Toxic Strikes;ClearOil;AmberOil;CrimsonOil
+Tranquility;GoldenOil;GoldenOil;AzureOil
+Tribal Fury;OpalescentOil;SilverOil;GoldenOil
+Trick Shot;GoldenOil;AmberOil;VioletOil
+Trickery;VerdantOil;VerdantOil;BlackOil
+True Strike;TealOil;CrimsonOil;BlackOil
+Twin Terrors;ClearOil;AzureOil;BlackOil
+Undertaker;IndigoOil;IndigoOil;BlackOil
+Unfaltering;IndigoOil;IndigoOil;CrimsonOil
+Unnatural Calm;GoldenOil;GoldenOil;VerdantOil
+Unstable Munitions;TealOil;VioletOil;VioletOil
+Utmost Intellect;AmberOil;VioletOil;CrimsonOil
+Utmost Might;AmberOil;AzureOil;CrimsonOil
+Utmost Swiftness;SepiaOil;TealOil;CrimsonOil
+Vampirism;AmberOil;TealOil;VioletOil
+Vanquisher;SilverOil;VerdantOil;IndigoOil
+Vengeant Cascade;GoldenOil;GoldenOil;AmberOil
+Versatility;OpalescentOil;VerdantOil;VerdantOil
+Veteran Soldier;GoldenOil;TealOil;IndigoOil
+Vigour;OpalescentOil;OpalescentOil;CrimsonOil
+Vitality Void;ClearOil;SilverOil;GoldenOil
+Void Barrier;SilverOil;GoldenOil;CrimsonOil
+Volatile Mines;OpalescentOil;OpalescentOil;AzureOil
+Wandslinger;TealOil;TealOil;CrimsonOil
+Warrior Training;ClearOil;TealOil;CrimsonOil
+Warrior's Blood;TealOil;TealOil;BlackOil
+Wasting;SilverOil;SilverOil;SepiaOil
+Watchtowers;SilverOil;SilverOil;IndigoOil
+Way of the Warrior;OpalescentOil;BlackOil;BlackOil
+Weapon Artistry;ClearOil;AmberOil;VioletOil
+Weathered Hunter;SepiaOil;AmberOil;TealOil
+Whirling Barrier;AmberOil;TealOil;CrimsonOil
+Whispers of Doom;GoldenOil;GoldenOil;GoldenOil
+Will of Blades;SepiaOil;VerdantOil;BlackOil
+Window of Opportunity;OpalescentOil;OpalescentOil;IndigoOil
+Winter Spirit;SilverOil;SepiaOil;TealOil
+Wisdom of the Glade;ClearOil;ClearOil;AmberOil
+Wrecking Ball;ClearOil;OpalescentOil;TealOil
+Written in Blood;GoldenOil;SepiaOil;VioletOil

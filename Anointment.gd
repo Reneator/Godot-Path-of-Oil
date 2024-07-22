@@ -22,3 +22,13 @@ func has_oil(_oil : Oil):
 
 func equals(_anointment : Anointment):
 	return _anointment.enchant_text == enchant_text
+
+func oils_equal(_anointment : Anointment):
+	if oils.size() != _anointment.oils.size():
+		return false
+	for i in range(oils.size()):
+		var oil = oils[i]
+		var _oil = _anointment.oils[i]
+		if oil != _oil:
+			return false
+	return true
