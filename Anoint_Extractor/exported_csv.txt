@@ -1,0 +1,465 @@
+ Acrimony;				ClearOil;				BlackOil;				BlackOil
+ Acuity;				ClearOil;				VioletOil;				BlackOil
+ Adamant;				AzureOil;				VioletOil;				BlackOil
+ Adaptive Steel;				PrismaticOil;				BlackOil;				BlackOil
+ Adder's Touch;				SepiaOil;				BlackOil;				OpalescentOil
+ Adjacent Animosity;				IndigoOil;				CrimsonOil;				OpalescentOil
+ Admonisher;				SepiaOil;				AzureOil;				OpalescentOil
+ Aggressive Bastion;				VerdantOil;				VioletOil;				BlackOil
+ Always Angry;				PrismaticOil;				AzureOil;				SilverOil
+ Ambidexterity;				AmberOil;				AzureOil;				BlackOil
+ Amplify;				AmberOil;				AzureOil;				OpalescentOil
+ Annihilation;				ClearOil;				ClearOil;				BlackOil
+ Anointed Flesh;				IndigoOil;				GoldenOil;				GoldenOil
+ Arcane Capacitor;				VioletOil;				BlackOil;				GoldenOil
+ Arcane Chemistry;				AmberOil;				SilverOil;				SilverOil
+ Arcane Expanse;				CrimsonOil;				CrimsonOil;				GoldenOil
+ Arcane Focus;				VerdantOil;				CrimsonOil;				CrimsonOil
+ Arcane Guarding;				ClearOil;				TealOil;				BlackOil
+ Arcane Potency;				AzureOil;				BlackOil;				SilverOil
+ Arcane Sanctuary;				ClearOil;				SilverOil;				SilverOil
+ Arcane Will;				AmberOil;				AmberOil;				SilverOil
+ Arcanist's Dominion;				ClearOil;				CrimsonOil;				BlackOil
+ Arcing Blows;				ClearOil;				ClearOil;				SilverOil
+ Arsonist;				VerdantOil;				VerdantOil;				AzureOil
+ Art of the Gladiator;				SepiaOil;				OpalescentOil;				GoldenOil
+ As The Mountain;				BlackOil;				BlackOil;				OpalescentOil
+ As The Thunder;				ClearOil;				ClearOil;				IndigoOil
+ Ash Frost and Storm;				SepiaOil;				CrimsonOil;				CrimsonOil
+ Aspect of Stone;				PrismaticOil;				VioletOil;				GoldenOil
+ Aspect of the Eagle;				AmberOil;				VerdantOil;				VerdantOil
+ Aspect of the Lynx;				VioletOil;				VioletOil;				CrimsonOil
+ Assassination;				BlackOil;				OpalescentOil;				GoldenOil
+ Assured Strike;				ClearOil;				IndigoOil;				BlackOil
+ Asylum;				IndigoOil;				VioletOil;				SilverOil
+ Atrophy;				ClearOil;				SepiaOil;				GoldenOil
+ Avatar of the Hunt;				ClearOil;				OpalescentOil;				OpalescentOil
+ Awe and Terror;				IndigoOil;				IndigoOil;				OpalescentOil
+ Backstabbing;				ClearOil;				TealOil;				SilverOil
+ Ballistics;				AzureOil;				VioletOil;				OpalescentOil
+ Bannerman;				IndigoOil;				VioletOil;				CrimsonOil
+ Barbarism;				OpalescentOil;				OpalescentOil;				GoldenOil
+ Bastion Breaker;				SepiaOil;				TealOil;				IndigoOil
+ Bastion of Faith;				PrismaticOil;				CrimsonOil;				CrimsonOil
+ Battle Rouse;				SepiaOil;				VerdantOil;				AzureOil
+ Battle Trance;				SepiaOil;				AmberOil;				AmberOil
+ Beacon of Hope;				PrismaticOil;				VioletOil;				CrimsonOil
+ Berserking;				ClearOil;				SepiaOil;				OpalescentOil
+ Blacksmith's Clout;				VerdantOil;				BlackOil;				OpalescentOil
+ Blade Barrier;				ClearOil;				VioletOil;				OpalescentOil
+ Blade Master;				ClearOil;				SepiaOil;				SilverOil
+ Blade of Cunning;				SepiaOil;				AzureOil;				SilverOil
+ Bladedancer;				AmberOil;				AmberOil;				CrimsonOil
+ Blast Radius;				ClearOil;				VerdantOil;				OpalescentOil
+ Blast Waves;				ClearOil;				VerdantOil;				CrimsonOil
+ Blood Drinker;				OpalescentOil;				OpalescentOil;				SilverOil
+ Blood Siphon;				AzureOil;				OpalescentOil;				SilverOil
+ Bloodless;				AmberOil;				CrimsonOil;				GoldenOil
+ Bloodletting;				AzureOil;				AzureOil;				SilverOil
+ Blunt Trauma;				TealOil;				CrimsonOil;				SilverOil
+ Bone Breaker;				VerdantOil;				AzureOil;				AzureOil
+ Born to Fight;				VioletOil;				VioletOil;				GoldenOil
+ Brand Equity;				IndigoOil;				VioletOil;				BlackOil
+ Bravery;				VioletOil;				OpalescentOil;				OpalescentOil
+ Breath of Flames;				VerdantOil;				AzureOil;				GoldenOil
+ Breath of Lightning;				AzureOil;				VioletOil;				GoldenOil
+ Breath of Rime;				TealOil;				SilverOil;				SilverOil
+ Brink of Death;				VerdantOil;				IndigoOil;				VioletOil
+ Brinkmanship;				ClearOil;				AmberOil;				OpalescentOil
+ Brutal Blade;				SepiaOil;				VerdantOil;				GoldenOil
+ Brutal Skewering;				AzureOil;				GoldenOil;				GoldenOil
+ Burning Brutality;				TealOil;				IndigoOil;				VioletOil
+ Burst of Energy;				ClearOil;				AmberOil;				AmberOil
+ Butchery;				VerdantOil;				VioletOil;				CrimsonOil
+ Cannibalistic Rite;				TealOil;				AzureOil;				AzureOil
+ Careful Conservationist;				IndigoOil;				BlackOil;				OpalescentOil
+ Careful Counterattack;				ClearOil;				ClearOil;				AmberOil
+ Cauterisation;				SepiaOil;				SepiaOil;				IndigoOil
+ Champion of the Cause;				TealOil;				CrimsonOil;				GoldenOil
+ Charisma;				OpalescentOil;				GoldenOil;				GoldenOil
+ Circle of Life;				ClearOil;				IndigoOil;				VioletOil
+ Claws of the Falcon;				AmberOil;				AmberOil;				GoldenOil
+ Claws of the Hawk;				VioletOil;				BlackOil;				OpalescentOil
+ Claws of the Magpie;				SepiaOil;				AzureOil;				AzureOil
+ Cleansed Thoughts;				PrismaticOil;				AzureOil;				GoldenOil
+ Cleaving;				SepiaOil;				AmberOil;				BlackOil
+ Clever Construction;				SepiaOil;				AzureOil;				CrimsonOil
+ Clever Thief;				ClearOil;				VerdantOil;				IndigoOil
+ Cloth and Chain;				ClearOil;				ClearOil;				AzureOil
+ Coldhearted Calculation;				CrimsonOil;				CrimsonOil;				CrimsonOil
+ Colloidal Mixture;				ClearOil;				ClearOil;				VerdantOil
+ Combat Stamina;				ClearOil;				VerdantOil;				BlackOil
+ Command of Steel;				AmberOil;				CrimsonOil;				OpalescentOil
+ Concussive Force;				TealOil;				IndigoOil;				SilverOil
+ Conjured Barrier;				VerdantOil;				IndigoOil;				BlackOil
+ Constitution;				TealOil;				VioletOil;				GoldenOil
+ Coordination;				AmberOil;				CrimsonOil;				BlackOil
+ Cornered Prey;				AmberOil;				AmberOil;				IndigoOil
+ Corruption;				CrimsonOil;				BlackOil;				BlackOil
+ Counterweight;				ClearOil;				AmberOil;				SilverOil
+ Courage;				AzureOil;				VioletOil;				VioletOil
+ Crackling Speed;				BlackOil;				OpalescentOil;				OpalescentOil
+ Cruel Preparation;				TealOil;				BlackOil;				SilverOil
+ Cruel Retort;				ClearOil;				ClearOil;				SepiaOil
+ Crusader;				PrismaticOil;				OpalescentOil;				GoldenOil
+ Crushing Reply;				ClearOil;				SepiaOil;				AmberOil
+ Crystal Skin;				SepiaOil;				BlackOil;				SilverOil
+ Dance of Blades;				IndigoOil;				CrimsonOil;				CrimsonOil
+ Dark Arts;				TealOil;				VioletOil;				OpalescentOil
+ Dazzling Strikes;				TealOil;				TealOil;				OpalescentOil
+ Deadly Draw;				SepiaOil;				VerdantOil;				CrimsonOil
+ Deadly Inclinations;				PrismaticOil;				IndigoOil;				BlackOil
+ Death Attunement;				ClearOil;				CrimsonOil;				SilverOil
+ Decay Ward;				SepiaOil;				VerdantOil;				TealOil
+ Deep Breaths;				TealOil;				IndigoOil;				OpalescentOil
+ Deep Thoughts;				ClearOil;				VerdantOil;				VioletOil
+ Deep Wisdom;				SepiaOil;				TealOil;				TealOil
+ Defiance;				AmberOil;				TealOil;				BlackOil
+ Defiant Stand;				VerdantOil;				BlackOil;				GoldenOil
+ Defiled Forces;				CrimsonOil;				BlackOil;				OpalescentOil
+ Deflection;				AmberOil;				IndigoOil;				SilverOil
+ Deliberate Brutality;				PrismaticOil;				VioletOil;				SilverOil
+ Depth Perception;				AmberOil;				VerdantOil;				TealOil
+ Dervish;				AzureOil;				CrimsonOil;				BlackOil
+ Destroyer;				SepiaOil;				VerdantOil;				OpalescentOil
+ Destructive Apparatus;				SepiaOil;				AmberOil;				SilverOil
+ Devastating Devices;				TealOil;				TealOil;				SilverOil
+ Devotion;				CrimsonOil;				CrimsonOil;				SilverOil
+ Diamond Skin;				SepiaOil;				TealOil;				OpalescentOil
+ Dire Torment;				AzureOil;				CrimsonOil;				OpalescentOil
+ Dirty Techniques;				AmberOil;				OpalescentOil;				GoldenOil
+ Disciple of the Forbidden;				BlackOil;				BlackOil;				BlackOil
+ Disciple of the Slaughter;				AmberOil;				VerdantOil;				GoldenOil
+ Disciple of the Unyielding;				VioletOil;				CrimsonOil;				OpalescentOil
+ Discipline and Training;				BlackOil;				SilverOil;				SilverOil
+ Discord Artisan;				AmberOil;				TealOil;				AzureOil
+ Disemboweling;				VerdantOil;				VioletOil;				GoldenOil
+ Disintegration;				VioletOil;				BlackOil;				BlackOil
+ Dismembering;				VioletOil;				OpalescentOil;				GoldenOil
+ Divine Fervour;				VerdantOil;				TealOil;				IndigoOil
+ Divine Fury;				AmberOil;				AmberOil;				BlackOil
+ Divine Judgement;				SepiaOil;				TealOil;				BlackOil
+ Divine Wrath;				AmberOil;				AmberOil;				OpalescentOil
+ Doom Cast;				AmberOil;				AzureOil;				GoldenOil
+ Dreamer;				SepiaOil;				TealOil;				AzureOil
+ Druidic Rite;				ClearOil;				CrimsonOil;				GoldenOil
+ Dynamo;				ClearOil;				SepiaOil;				AzureOil
+ Eagle Eye;				ClearOil;				ClearOil;				OpalescentOil
+ Efficient Explosives;				SepiaOil;				TealOil;				VioletOil
+ Elder Power;				TealOil;				TealOil;				VioletOil
+ Elemental Focus;				SepiaOil;				AmberOil;				AzureOil
+ Empowered Bond;				ClearOil;				IndigoOil;				IndigoOil
+ Endurance;				ClearOil;				BlackOil;				GoldenOil
+ Enduring Bond;				ClearOil;				VerdantOil;				GoldenOil
+ Enigmatic Defence;				VioletOil;				VioletOil;				VioletOil
+ Enigmatic Reach;				VerdantOil;				TealOil;				BlackOil
+ Entrench;				SepiaOil;				AzureOil;				VioletOil
+ Entropy;				SepiaOil;				AmberOil;				CrimsonOil
+ Escalation;				VerdantOil;				VerdantOil;				IndigoOil
+ Essence Extraction;				CrimsonOil;				CrimsonOil;				BlackOil
+ Essence Infusion;				ClearOil;				AmberOil;				VerdantOil
+ Essence Sap;				TealOil;				VioletOil;				BlackOil
+ Essence Surge;				TealOil;				SilverOil;				GoldenOil
+ Ethereal Feast;				AmberOil;				SilverOil;				GoldenOil
+ Exceptional Performance;				ClearOil;				AmberOil;				BlackOil
+ Excess Sustenance;				TealOil;				IndigoOil;				IndigoOil
+ Executioner;				AmberOil;				VerdantOil;				AzureOil
+ Expeditious Munitions;				ClearOil;				AzureOil;				VioletOil
+ Expert Hunter;				IndigoOil;				BlackOil;				BlackOil
+ Explosive Elements;				AmberOil;				CrimsonOil;				SilverOil
+ Explosive Impact;				VerdantOil;				AzureOil;				OpalescentOil
+ Explosive Runes;				AmberOil;				AzureOil;				AzureOil
+ Faith and Steel;				SepiaOil;				BlackOil;				GoldenOil
+ Fangs of Frost;				SepiaOil;				SepiaOil;				SilverOil
+ Fangs of the Viper;				ClearOil;				TealOil;				AzureOil
+ Farsight;				VerdantOil;				VerdantOil;				CrimsonOil
+ Fatal Blade;				AmberOil;				OpalescentOil;				OpalescentOil
+ Fatal Toxins;				ClearOil;				VioletOil;				SilverOil
+ Fearsome Force;				TealOil;				AzureOil;				CrimsonOil
+ Feline Swiftness;				ClearOil;				ClearOil;				TealOil
+ Feller of Foes;				AmberOil;				BlackOil;				OpalescentOil
+ Fending;				SepiaOil;				SepiaOil;				VerdantOil
+ Fervour;				AmberOil;				BlackOil;				SilverOil
+ Field Medicine;				IndigoOil;				CrimsonOil;				BlackOil
+ Finesse;				TealOil;				AzureOil;				BlackOil
+ Fingers of Frost;				VioletOil;				CrimsonOil;				GoldenOil
+ Fire Walker;				VioletOil;				CrimsonOil;				BlackOil
+ Flash Freeze;				VerdantOil;				AzureOil;				CrimsonOil
+ Flaying;				ClearOil;				VioletOil;				CrimsonOil
+ Fleetfoot;				SepiaOil;				AmberOil;				OpalescentOil
+ Flow of Battle;				SepiaOil;				SepiaOil;				AmberOil
+ Force Shaper;				ClearOil;				IndigoOil;				SilverOil
+ Force of Darkness;				PrismaticOil;				OpalescentOil;				OpalescentOil
+ Forceful Skewering;				VerdantOil;				AzureOil;				VioletOil
+ Forces of Nature;				VerdantOil;				AzureOil;				SilverOil
+ Foresight;				VerdantOil;				OpalescentOil;				GoldenOil
+ Forethought;				TealOil;				IndigoOil;				BlackOil
+ Freedom of Movement;				ClearOil;				SepiaOil;				VioletOil
+ Frenetic;				AzureOil;				SilverOil;				SilverOil
+ From the Shadows;				ClearOil;				AzureOil;				CrimsonOil
+ Frost Walker;				VerdantOil;				VioletOil;				OpalescentOil
+ Fury Bolts;				VerdantOil;				VerdantOil;				TealOil
+ Fusillade;				SepiaOil;				VerdantOil;				VerdantOil
+ Galvanic Hammer;				ClearOil;				SepiaOil;				CrimsonOil
+ Glacial Cage;				VerdantOil;				IndigoOil;				CrimsonOil
+ Gladiator's Perseverance;				TealOil;				AzureOil;				SilverOil
+ Golem Commander;				AzureOil;				SilverOil;				GoldenOil
+ Golem's Blood;				TealOil;				GoldenOil;				GoldenOil
+ Goliath;				SepiaOil;				AmberOil;				GoldenOil
+ Graceful Assault;				VioletOil;				VioletOil;				BlackOil
+ Grave Intentions;				SepiaOil;				VioletOil;				VioletOil
+ Gravepact;				AzureOil;				BlackOil;				BlackOil
+ Growth and Decay;				ClearOil;				TealOil;				GoldenOil
+ Hardened Scars;				PrismaticOil;				AzureOil;				CrimsonOil
+ Harpooner;				TealOil;				IndigoOil;				CrimsonOil
+ Harrier;				AzureOil;				CrimsonOil;				CrimsonOil
+ Harvester of Foes;				ClearOil;				AmberOil;				IndigoOil
+ Hatchet Master;				VerdantOil;				TealOil;				CrimsonOil
+ Heart and Soul;				SepiaOil;				CrimsonOil;				GoldenOil
+ Heart of Darkness;				PrismaticOil;				VioletOil;				VioletOil
+ Heart of Flame;				TealOil;				AzureOil;				GoldenOil
+ Heart of Ice;				CrimsonOil;				OpalescentOil;				GoldenOil
+ Heart of Oak;				VerdantOil;				CrimsonOil;				GoldenOil
+ Heart of Thunder;				SepiaOil;				AzureOil;				GoldenOil
+ Heart of the Warrior;				VioletOil;				SilverOil;				GoldenOil
+ Heartseeker;				TealOil;				CrimsonOil;				CrimsonOil
+ Hearty;				VerdantOil;				OpalescentOil;				SilverOil
+ Heavy Draw;				SepiaOil;				VerdantOil;				VioletOil
+ Hematophagy;				VioletOil;				BlackOil;				SilverOil
+ Herbalism;				TealOil;				OpalescentOil;				SilverOil
+ High Explosives;				VerdantOil;				VerdantOil;				SilverOil
+ High Voltage;				AmberOil;				IndigoOil;				IndigoOil
+ Hired Killer;				VioletOil;				VioletOil;				OpalescentOil
+ Hollow Effigy;				PrismaticOil;				CrimsonOil;				SilverOil
+ Holy Dominion;				AzureOil;				AzureOil;				CrimsonOil
+ Holy Fire;				AmberOil;				TealOil;				SilverOil
+ Hunter's Gambit;				ClearOil;				VerdantOil;				SilverOil
+ Incorporeal;				PrismaticOil;				SilverOil;				SilverOil
+ Indiscriminate Revenge;				ClearOil;				ClearOil;				ClearOil
+ Indomitable Army;				VioletOil;				CrimsonOil;				SilverOil
+ Inexorable;				CrimsonOil;				OpalescentOil;				SilverOil
+ Influence;				VerdantOil;				TealOil;				GoldenOil
+ Infused;				CrimsonOil;				SilverOil;				SilverOil
+ Infused Flesh;				AmberOil;				IndigoOil;				BlackOil
+ Insightfulness;				VerdantOil;				VerdantOil;				GoldenOil
+ Inspiring Bond;				AmberOil;				TealOil;				IndigoOil
+ Instability;				VerdantOil;				SilverOil;				SilverOil
+ Instinct;				SepiaOil;				SepiaOil;				AzureOil
+ Intuition;				AmberOil;				VioletOil;				VioletOil
+ Inveterate;				BlackOil;				BlackOil;				GoldenOil
+ Invigorating Blaze;				ClearOil;				TealOil;				IndigoOil
+ Ironwood;				ClearOil;				AmberOil;				TealOil
+ Jagged Wounds;				PrismaticOil;				IndigoOil;				GoldenOil
+ Juggernaut;				AmberOil;				TealOil;				OpalescentOil
+ Kinetic Impacts;				AmberOil;				AzureOil;				VioletOil
+ King of the Hill;				VerdantOil;				VioletOil;				SilverOil
+ King of the Hill;				PrismaticOil;				BlackOil;				GoldenOil
+ Knowledge Barrier;				PrismaticOil;				OpalescentOil;				SilverOil
+ Last Rites;				SepiaOil;				BlackOil;				BlackOil
+ Lava Lash;				ClearOil;				ClearOil;				GoldenOil
+ Leader of the Pack;				CrimsonOil;				GoldenOil;				GoldenOil
+ Leadership;				VioletOil;				OpalescentOil;				SilverOil
+ Legacy of the Wilds;				PrismaticOil;				CrimsonOil;				BlackOil
+ Lethality;				SepiaOil;				VioletOil;				SilverOil
+ Life Raker;				SepiaOil;				VerdantOil;				SilverOil
+ Light Eater;				AzureOil;				VioletOil;				CrimsonOil
+ Light of Divinity;				VioletOil;				CrimsonOil;				CrimsonOil
+ Lightning Walker;				SepiaOil;				SepiaOil;				BlackOil
+ Longshot;				TealOil;				CrimsonOil;				OpalescentOil
+ Lord of the Dead;				VerdantOil;				CrimsonOil;				SilverOil
+ Lust for Carnage;				TealOil;				OpalescentOil;				GoldenOil
+ Magmatic Strikes;				AmberOil;				BlackOil;				BlackOil
+ Malicious Intent;				IndigoOil;				IndigoOil;				SilverOil
+ Mana Flows;				ClearOil;				OpalescentOil;				GoldenOil
+ Mark the Prey;				SepiaOil;				IndigoOil;				BlackOil
+ Marked for Death;				SepiaOil;				IndigoOil;				SilverOil
+ Martial Experience;				ClearOil;				VerdantOil;				AzureOil
+ Master Fletcher;				SepiaOil;				CrimsonOil;				SilverOil
+ Master Sapper;				TealOil;				BlackOil;				OpalescentOil
+ Master of Blades;				AzureOil;				OpalescentOil;				GoldenOil
+ Master of Wounds;				ClearOil;				TealOil;				VioletOil
+ Master of the Arena;				SepiaOil;				OpalescentOil;				SilverOil
+ Measured Fury;				AmberOil;				BlackOil;				GoldenOil
+ Melding;				SepiaOil;				VioletOil;				OpalescentOil
+ Mental Rapidity;				SepiaOil;				VioletOil;				BlackOil
+ Merciless Skewering;				VioletOil;				VioletOil;				SilverOil
+ Mind Drinker;				VerdantOil;				TealOil;				TealOil
+ Mixed Munitions;				PrismaticOil;				CrimsonOil;				OpalescentOil
+ Multishot;				IndigoOil;				BlackOil;				SilverOil
+ Mystic Bulwark;				TealOil;				TealOil;				TealOil
+ Mystic Talents;				PrismaticOil;				AzureOil;				OpalescentOil
+ Mysticism;				TealOil;				AzureOil;				OpalescentOil
+ Natural Authority;				SepiaOil;				SilverOil;				GoldenOil
+ Natural Remedies;				IndigoOil;				OpalescentOil;				SilverOil
+ Nature's Concoction;				TealOil;				TealOil;				IndigoOil
+ Nightstalker;				SepiaOil;				TealOil;				GoldenOil
+ Nimbleness;				AmberOil;				CrimsonOil;				CrimsonOil
+ Nomadic Teachings;				BlackOil;				GoldenOil;				GoldenOil
+ One With Nature;				VerdantOil;				CrimsonOil;				BlackOil
+ One with the River;				TealOil;				OpalescentOil;				OpalescentOil
+ Overcharge;				CrimsonOil;				BlackOil;				SilverOil
+ Overcharged;				ClearOil;				OpalescentOil;				SilverOil
+ Overprepared;				AmberOil;				AmberOil;				AzureOil
+ Pain Forger;				ClearOil;				VioletOil;				VioletOil
+ Path of the Hunter;				ClearOil;				VerdantOil;				VerdantOil
+ Path of the Savant;				SepiaOil;				AmberOil;				VerdantOil
+ Path of the Warrior;				AmberOil;				AmberOil;				AmberOil
+ Perfected Formula;				IndigoOil;				IndigoOil;				VioletOil
+ Perfectionist;				VerdantOil;				TealOil;				SilverOil
+ Persistence;				PrismaticOil;				IndigoOil;				CrimsonOil
+ Piercing Shots;				BlackOil;				OpalescentOil;				SilverOil
+ Poisonous Fangs;				ClearOil;				AmberOil;				AzureOil
+ Potency of Will;				SepiaOil;				SepiaOil;				OpalescentOil
+ Potent Connections;				SepiaOil;				SepiaOil;				VioletOil
+ Powerful Bond;				IndigoOil;				IndigoOil;				IndigoOil
+ Practical Application;				ClearOil;				ClearOil;				VioletOil
+ Practised Reapplication;				SepiaOil;				SepiaOil;				SepiaOil
+ Precision;				SepiaOil;				SepiaOil;				CrimsonOil
+ Prepared Response;				ClearOil;				SepiaOil;				SepiaOil
+ Presage;				AmberOil;				IndigoOil;				GoldenOil
+ Primal Manifestation;				AmberOil;				VerdantOil;				CrimsonOil
+ Primal Spirit;				SepiaOil;				AzureOil;				BlackOil
+ Primeval Force;				AzureOil;				VioletOil;				SilverOil
+ Prism Weave;				SepiaOil;				OpalescentOil;				OpalescentOil
+ Prismatic Skin;				SilverOil;				GoldenOil;				GoldenOil
+ Prodigal Perfection;				ClearOil;				AzureOil;				AzureOil
+ Profane Chemistry;				VerdantOil;				BlackOil;				SilverOil
+ Purity of Flesh;				ClearOil;				BlackOil;				SilverOil
+ Quick Recovery;				TealOil;				TealOil;				GoldenOil
+ Quickstep;				AmberOil;				AmberOil;				VerdantOil
+ Rallying Icon;				ClearOil;				AzureOil;				GoldenOil
+ Rampart;				AmberOil;				VerdantOil;				BlackOil
+ Ravenous Horde;				VerdantOil;				SilverOil;				GoldenOil
+ Razor's Edge;				VerdantOil;				TealOil;				VioletOil
+ Redemption;				SepiaOil;				VioletOil;				CrimsonOil
+ Reflexes;				AzureOil;				BlackOil;				GoldenOil
+ Relentless;				SepiaOil;				VerdantOil;				IndigoOil
+ Relentless Pursuit;				SepiaOil;				IndigoOil;				CrimsonOil
+ Renowned Deeds;				IndigoOil;				OpalescentOil;				GoldenOil
+ Replenishing Remedies;				SepiaOil;				AmberOil;				IndigoOil
+ Resourcefulness;				VerdantOil;				OpalescentOil;				OpalescentOil
+ Retaliation;				VerdantOil;				CrimsonOil;				OpalescentOil
+ Retribution;				ClearOil;				CrimsonOil;				OpalescentOil
+ Revelry;				AmberOil;				VioletOil;				BlackOil
+ Revenge of the Hunted;				BlackOil;				SilverOil;				GoldenOil
+ Ribcage Crusher;				TealOil;				BlackOil;				BlackOil
+ Righteous Army;				VerdantOil;				BlackOil;				BlackOil
+ Righteous Decree;				SepiaOil;				SepiaOil;				TealOil
+ Righteous Fury;				VerdantOil;				IndigoOil;				IndigoOil
+ Rising Tempest;				PrismaticOil;				VioletOil;				OpalescentOil
+ Roaring Challenge;				ClearOil;				SepiaOil;				VerdantOil
+ Robust;				ClearOil;				VerdantOil;				TealOil
+ Runesmith;				AzureOil;				CrimsonOil;				SilverOil
+ Saboteur;				ClearOil;				TealOil;				TealOil
+ Sacrifice;				TealOil;				AzureOil;				VioletOil
+ Safeguard;				VerdantOil;				AzureOil;				BlackOil
+ Sanctity;				AzureOil;				AzureOil;				BlackOil
+ Sanctuary;				AmberOil;				TealOil;				TealOil
+ Sanctum of Thought;				AzureOil;				AzureOil;				GoldenOil
+ Savage Intensity;				AzureOil;				AzureOil;				OpalescentOil
+ Savage Skewering;				ClearOil;				SepiaOil;				IndigoOil
+ Savage Wounds;				TealOil;				BlackOil;				GoldenOil
+ Savagery;				CrimsonOil;				BlackOil;				GoldenOil
+ Searing Heat;				AmberOil;				AzureOil;				SilverOil
+ Season of Ice;				IndigoOil;				BlackOil;				GoldenOil
+ Seasoned Swordplay;				AmberOil;				IndigoOil;				OpalescentOil
+ Selective Precision;				PrismaticOil;				CrimsonOil;				GoldenOil
+ Sentinel;				VerdantOil;				TealOil;				AzureOil
+ Serpent Stance;				AzureOil;				BlackOil;				OpalescentOil
+ Serpentine Spellslinger;				IndigoOil;				VioletOil;				OpalescentOil
+ Settling Ash;				ClearOil;				IndigoOil;				GoldenOil
+ Shaman's Dominion;				ClearOil;				AzureOil;				SilverOil
+ Shamanistic Fury;				SepiaOil;				AmberOil;				VioletOil
+ Shaper;				ClearOil;				CrimsonOil;				CrimsonOil
+ Silent Steps;				AmberOil;				VerdantOil;				VioletOil
+ Sione's Ambition;				PrismaticOil;				AzureOil;				BlackOil
+ Skittering Runes;				OpalescentOil;				SilverOil;				SilverOil
+ Skull Cracking;				ClearOil;				BlackOil;				OpalescentOil
+ Slaughter;				AzureOil;				AzureOil;				AzureOil
+ Sleight of Hand;				VerdantOil;				TealOil;				OpalescentOil
+ Smashing Strikes;				AzureOil;				AzureOil;				VioletOil
+ Snowforged;				AmberOil;				TealOil;				GoldenOil
+ Soul Siphon;				AmberOil;				AmberOil;				VioletOil
+ Soul Thief;				SepiaOil;				CrimsonOil;				OpalescentOil
+ Soul of Steel;				ClearOil;				GoldenOil;				GoldenOil
+ Sovereignty;				SilverOil;				SilverOil;				SilverOil
+ Spiked Bulwark;				ClearOil;				SepiaOil;				TealOil
+ Spinecruncher;				VerdantOil;				VioletOil;				VioletOil
+ Spirit Void;				VerdantOil;				VerdantOil;				VerdantOil
+ Spirit of War;				ClearOil;				VioletOil;				GoldenOil
+ Spiritual Aid;				SilverOil;				SilverOil;				GoldenOil
+ Spiritual Command;				SepiaOil;				SepiaOil;				GoldenOil
+ Split Shot;				ClearOil;				IndigoOil;				OpalescentOil
+ Stamina;				BlackOil;				BlackOil;				SilverOil
+ Static Blows;				TealOil;				VioletOil;				CrimsonOil
+ Steadfast;				SepiaOil;				GoldenOil;				GoldenOil
+ Steelwood Stance;				TealOil;				TealOil;				AzureOil
+ Steeped in the Profane;				SepiaOil;				IndigoOil;				GoldenOil
+ Storm Weaver;				SepiaOil;				CrimsonOil;				BlackOil
+ Strong Arm;				ClearOil;				AzureOil;				OpalescentOil
+ Successive Detonations;				ClearOil;				ClearOil;				CrimsonOil
+ Surge of Vigour;				AmberOil;				IndigoOil;				VioletOil
+ Surveillance;				SepiaOil;				IndigoOil;				OpalescentOil
+ Survivalist;				AzureOil;				CrimsonOil;				GoldenOil
+ Swagger;				TealOil;				VioletOil;				SilverOil
+ Swift Venoms;				ClearOil;				AmberOil;				GoldenOil
+ Taste for Blood;				AmberOil;				VioletOil;				SilverOil
+ Tempest Blast;				AmberOil;				VerdantOil;				SilverOil
+ Tenacity;				PrismaticOil;				GoldenOil;				GoldenOil
+ Testudo;				ClearOil;				SepiaOil;				BlackOil
+ Thick Skin;				VioletOil;				SilverOil;				SilverOil
+ Thrill Killer;				AmberOil;				AmberOil;				TealOil
+ Thrill of Battle;				IndigoOil;				SilverOil;				GoldenOil
+ Throatseeker;				AmberOil;				VioletOil;				OpalescentOil
+ Tireless;				OpalescentOil;				OpalescentOil;				OpalescentOil
+ Titanic Impacts;				AmberOil;				VerdantOil;				OpalescentOil
+ Tolerance;				CrimsonOil;				CrimsonOil;				OpalescentOil
+ Totemic Zeal;				VerdantOil;				VerdantOil;				VioletOil
+ Toxic Strikes;				ClearOil;				AmberOil;				CrimsonOil
+ Tranquility;				PrismaticOil;				SilverOil;				GoldenOil
+ Trial of the Faith;				SepiaOil;				IndigoOil;				IndigoOil
+ Tribal Fury;				OpalescentOil;				SilverOil;				GoldenOil
+ Trick Shot;				AmberOil;				VioletOil;				GoldenOil
+ Trickery;				VerdantOil;				VerdantOil;				BlackOil
+ True Strike;				TealOil;				CrimsonOil;				BlackOil
+ Twin Terrors;				ClearOil;				AzureOil;				BlackOil
+ Undertaker;				IndigoOil;				IndigoOil;				BlackOil
+ Unfaltering;				IndigoOil;				IndigoOil;				CrimsonOil
+ Unnatural Calm;				VerdantOil;				GoldenOil;				GoldenOil
+ Unstable Munitions;				TealOil;				VioletOil;				VioletOil
+ Utmost Intellect;				AmberOil;				VioletOil;				CrimsonOil
+ Utmost Might;				AmberOil;				AzureOil;				CrimsonOil
+ Utmost Swiftness;				SepiaOil;				TealOil;				CrimsonOil
+ Vampirism;				AmberOil;				TealOil;				VioletOil
+ Vanquisher;				VerdantOil;				IndigoOil;				SilverOil
+ Vengeance;				AmberOil;				OpalescentOil;				SilverOil
+ Vengeant Cascade;				PrismaticOil;				IndigoOil;				OpalescentOil
+ Versatility;				VerdantOil;				VerdantOil;				OpalescentOil
+ Veteran Soldier;				TealOil;				IndigoOil;				GoldenOil
+ Veteran's Wrath;				VioletOil;				GoldenOil;				GoldenOil
+ Vigour;				CrimsonOil;				OpalescentOil;				OpalescentOil
+ Vinespike Cordial;				PrismaticOil;				BlackOil;				SilverOil
+ Vitality Void;				ClearOil;				SilverOil;				GoldenOil
+ Void Barrier;				CrimsonOil;				SilverOil;				GoldenOil
+ Volatile Mines;				AzureOil;				OpalescentOil;				OpalescentOil
+ Wall of Steel;				VerdantOil;				IndigoOil;				OpalescentOil
+ Wandslinger;				TealOil;				TealOil;				CrimsonOil
+ Warrior Training;				ClearOil;				TealOil;				CrimsonOil
+ Warrior's Blood;				TealOil;				TealOil;				BlackOil
+ Wasting;				SepiaOil;				SilverOil;				SilverOil
+ Watchtowers;				IndigoOil;				SilverOil;				SilverOil
+ Way of the Warrior;				PrismaticOil;				BlackOil;				OpalescentOil
+ Weapon Artistry;				ClearOil;				AmberOil;				VioletOil
+ Weathered Hunter;				SepiaOil;				AmberOil;				TealOil
+ Whirling Barrier;				AmberOil;				TealOil;				CrimsonOil
+ Whispers of Doom;				GoldenOil;				GoldenOil;				GoldenOil
+ Wicked Blade;				AmberOil;				VerdantOil;				IndigoOil
+ Wild Hunger;				AmberOil;				GoldenOil;				GoldenOil
+ Will of Blades;				SepiaOil;				VerdantOil;				BlackOil
+ Window of Opportunity;				IndigoOil;				OpalescentOil;				OpalescentOil
+ Winter Spirit;				SepiaOil;				TealOil;				SilverOil
+ Winter's Embrace;				ClearOil;				IndigoOil;				CrimsonOil
+ Wood Stone and Spell;				PrismaticOil;				IndigoOil;				SilverOil
+ Worship the Blightheart;				PrismaticOil;				PrismaticOil;				PrismaticOil
+ Wrecking Ball;				ClearOil;				TealOil;				OpalescentOil
+ Written in Blood;				SepiaOil;				VioletOil;				GoldenOil

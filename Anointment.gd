@@ -19,3 +19,6 @@ func has_oil(_oil : Oil):
 	for oil in oils:
 		if _oil.equals(oil):
 			return true
+
+func equals(_anointment : Anointment):
+	return _anointment.enchant_text == enchant_text

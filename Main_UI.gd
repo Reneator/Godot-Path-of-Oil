@@ -17,6 +17,7 @@ func _ready():
 	initialize()
 
 func initialize():
+	
 	anointments = Anointments.new("res://Assets/Anointments_csv.txt")
 	
 func _process(delta):

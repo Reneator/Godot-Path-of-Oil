@@ -1,4 +1,4 @@
-[gd_scene load_steps=16 format=3 uid="uid://j7i4efpb3qk4"]
+[gd_scene load_steps=17 format=3 uid="uid://j7i4efpb3qk4"]
 
 [ext_resource type="Script" path="res://Oil.gd" id="1"]
 [ext_resource type="Texture2D" uid="uid://dxosmwuk01ss5" path="res://Assets/Images/Amber Oil.png" id="2"]
@@ -15,6 +15,7 @@
 [ext_resource type="Texture2D" uid="uid://dbmlph2illvhe" path="res://Assets/Images/Sepia Oil.png" id="13"]
 [ext_resource type="Texture2D" uid="uid://butvmoyxy3p7q" path="res://Assets/Images/Silver Oil.png" id="14"]
 [ext_resource type="Script" path="res://Oils.gd" id="15"]
+[ext_resource type="Texture2D" uid="uid://cj0e203qswltt" path="res://Assets/Images/Prismatic Oil.png" id="16_d1x1b"]
 
 [node name="Oils" type="Node"]
 script = ExtResource("15")
@@ -70,3 +71,7 @@ icon = ExtResource("9")
 [node name="Violet" type="Node" parent="."]
 script = ExtResource("1")
 icon = ExtResource("10")
+
+[node name="Prismatic" type="Node" parent="."]
+script = ExtResource("1")
+icon = ExtResource("16_d1x1b")

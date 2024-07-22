@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://d1emnb5v72gi4"]
+
+[ext_resource type="Script" path="res://Anoint_Extractor/POB_Anoint_Extractor.gd" id="1_m6cy5"]
+
+[node name="POB-Anoint_Extractor" type="Node"]
+script = ExtResource("1_m6cy5")
+file_path = "res://Anoint_Extractor/lua_tree_3.2.5_pre.txt"
