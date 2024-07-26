@@ -252,10 +252,10 @@ Ironwood;ClearOil;AmberOil;TealOil
 Jagged Wounds;PrismaticOil;IndigoOil;GoldenOil
 Juggernaut;AmberOil;TealOil;OpalescentOil
 Kinetic Impacts;AmberOil;AzureOil;VioletOil
-#King of the Hill;VerdantOil;VioletOil;SilverOil
-#King of the Hill;PrismaticOil;BlackOil;GoldenOil
+King of the Hill;VerdantOil;VioletOil;SilverOil
 Knowledge Barrier;PrismaticOil;OpalescentOil;SilverOil
 Last Rites;SepiaOil;BlackOil;BlackOil
+Lasting Tempest;PrismaticOil;VioletOil;OpalescentOil
 Lava Lash;ClearOil;ClearOil;GoldenOil
 Leader of the Pack;CrimsonOil;GoldenOil;GoldenOil
 Leadership;VioletOil;OpalescentOil;SilverOil
@@ -294,6 +294,7 @@ Natural Remedies;IndigoOil;OpalescentOil;SilverOil
 Nature's Concoction;TealOil;TealOil;IndigoOil
 Nightstalker;SepiaOil;TealOil;GoldenOil
 Nimbleness;AmberOil;CrimsonOil;CrimsonOil
+No Forgiveness;PrismaticOil;BlackOil;GoldenOil
 Nomadic Teachings;BlackOil;GoldenOil;GoldenOil
 One With Nature;VerdantOil;CrimsonOil;BlackOil
 One with the River;TealOil;OpalescentOil;OpalescentOil
@@ -346,7 +347,6 @@ Ribcage Crusher;TealOil;BlackOil;BlackOil
 Righteous Army;VerdantOil;BlackOil;BlackOil
 Righteous Decree;SepiaOil;SepiaOil;TealOil
 Righteous Fury;VerdantOil;IndigoOil;IndigoOil
-Rising Tempest;PrismaticOil;VioletOil;OpalescentOil
 Roaring Challenge;ClearOil;SepiaOil;VerdantOil
 Robust;ClearOil;VerdantOil;TealOil
 Runesmith;AzureOil;CrimsonOil;SilverOil

@@ -4,4 +4,4 @@
 
 [node name="POB-Anoint_Extractor" type="Node"]
 script = ExtResource("1_m6cy5")
-file_path = "res://Anoint_Extractor/lua_tree_3.2.5_pre.txt"
+file_path = "res://Anoint_Extractor/pob_tree_3.25.txt"
